@@ -1,0 +1,88 @@
+<!doctype html>
+<html> 
+ <head> 
+  <title>Pincode Finder</title> 
+  <link rel="stylesheet" type="text/css" href="style.css"> 
+ <style type="text/css" id="dcoder_stylesheet">body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+input[type="button"] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="button"]:hover {
+  background-color: #45a049;
+}</style></head> 
+ <body> 
+  <div class="container"> 
+   <h1>Pincode Finder</h1> 
+   <form> <label for="village">Village Name</label> 
+    <input type="text" id="village" name="village" placeholder="Enter village name..."> <label for="subdistrict">Subdistrict Name</label> 
+    <input type="text" id="subdistrict" name="subdistrict" placeholder="Enter subdistrict name..."> <label for="district">District Name</label> 
+    <input type="text" id="district" name="district" placeholder="Enter district name..."> <label for="state">State Name</label> 
+    <input type="text" id="state" name="state" placeholder="Enter state name..."> 
+    <input type="button" value="Find Pincode" onclick="searchPincode()"> 
+   </form> 
+   <div id="result"></div> 
+  </div> 
+  <script src="script.js"></script> 
+ 
+<script type="text/javascript" id="dcoder_script">function searchPincode() {
+    const village = document.getElementById("village").value;
+    const subdistrict = document.getElementById("subdistrict").value;
+    const district = document.getElementById("district").value;
+    const state = document.getElementById("state").value;
+
+    // Send a request to the server to search for the pincode data
+    // You will need to replace 'url-to-server' with the actual URL to your server's search API
+    fetch('pincodedata.html'+
+          'village='+village+
+          '&subdistrict='+subdistrict+
+          '&district='+district+
+          '&state='+state
+         )
+        .then(response => response.json())
+        .then(data => {
+            if (data.error) {
+                // Display the error message if there was an error
+                document.getElementById("result").innerHTML = data.error;
+            } else {
+                // Display the pincode data if it was found
+                document.getElementById("result").innerHTML = `The pincode for ${village}, ${subdistrict}, ${district}, ${state} is ${data.pincode}.`;
+            }
+        });
+}</script></body></html>
