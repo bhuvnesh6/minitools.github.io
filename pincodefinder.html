@@ -1,0 +1,131 @@
+<!doctype html>
+<html>
+<head>
+  <title>Pincode Search</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+<style type="text/css" id="dcoder_stylesheet">.container {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+}
+
+form {
+  display: inline-block;
+  text-align: left;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+#result {
+  margin-top: 20px;
+  font-size: 20px;
+}
+</style></head>
+<body>
+  <div class="container">
+    <h1>Pincode Search</h1>
+    <form>
+      <label for="village">Village Name:</label>
+      <input type="text" id="village" name="village"><br>
+
+      <label for="subdistrict">Subdistrict Name:</label>
+      <input type="text" id="subdistrict" name="subdistrict"><br>
+
+      <label for="district">District Name:</label>
+      <input type="text" id="district" name="district"><br>
+
+      <label for="state">State Name:</label>
+      <input type="text" id="state" name="state"><br>
+
+      <button type="button" onclick="search()">Search</button>
+    </form>
+
+    <div id="result"></div>
+  </div>
+
+  <script src="script.js"></script>
+
+<script type="text/javascript" id="dcoder_script">function csvToObject(text) {
+  // Split CSV text into lines
+  let lines = text.split("\n");
+
+  // Extract header and create object template
+  let header = lines[0].split(",");
+  let template = {};
+  header.forEach(key => {
+    template[key] = "";
+  });
+
+  // Convert CSV text to array of objects
+  let objects = [];
+  for (let i = 1; i < lines.length; i++) {
+    let values = lines[i].split(",");
+    if (values.length !== header.length) {
+      continue;
+    }
+    let obj = Object.assign({}, template);
+    for (let j = 0; j < header.length; j++) {
+      obj[header[j]] = values[j];
+    }
+    objects.push(obj);
+  }
+  return objects;
+}
+
+function search() {
+  // Get user inputs
+  let village = document.getElementById("village").value.trim();
+  let subdistrict = document.getElementById("subdistrict").value.trim();
+  let district = document.getElementById("district").value.trim();
+  let state = document.getElementById("state").value.trim();
+
+  // Read pincode data from CSV file
+  fetch("pincodes.csv")
+    .then(response => response.text())
+    .then(text => {
+      // Convert CSV text to array of objects
+      let pincodes = csvToObject(text);
+
+      // Filter pincodes based on user inputs
+      let filteredPincodes = pincodes.filter(pincode => {
+        if (village && !pincode.village.toLowerCase().includes(village.toLowerCase())) {
+          return false;
+        }
+        if (subdistrict && !pincode.subdistrict.toLowerCase().includes(subdistrict.toLowerCase())) {
+          return false;
+        }
+        if (district && !pincode.district.toLowerCase().includes(district.toLowerCase())) {
+          return false;
+        }
+        if (state && !pincode.state.toLowerCase().includes(state.toLowerCase())) {
+          return false;
+        }
+        return true;
+      });
+
+      // Display search results
+      let resultDiv = document.getElementById("result");
+      if (filteredPincodes.length === 0) {
+        resultDiv.innerHTML = "No pincode found";
+      } else {
+        let resultHtml = "<table><tr><th>Pincode</th><th>Village</th><th>Subdistrict</th><th>District</th><th>State</th></tr>";
+        filteredPincodes.forEach(pincode => {
+          resultHtml += "<tr><td>" + pincode.pincode + "</td><td>" + pincode.village + "</td><td>" + pincode.subdistrict + "</td><td>" + pincode.district + "</td><td>" + pincode.state + "</td></tr>";
+        });
+        resultHtml += "</table>";
+        resultDiv.innerHTML = resultHtml;
+      }
+    })
+    .catch(error => {
+      console.log(error);
+      alert("Failed to read pincode data");
+    });
+}
+</script></body></html>
