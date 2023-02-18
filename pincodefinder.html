@@ -87,7 +87,7 @@ function search() {
   let state = document.getElementById("state").value.trim();
 
   // Read pincode data from CSV file
-  fetch("pincodes.csv")
+  fetch("pLocality_village_pincode_final_mar-2017.csv")
     .then(response => response.text())
     .then(text => {
       // Convert CSV text to array of objects
