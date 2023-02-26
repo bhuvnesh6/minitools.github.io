@@ -1,0 +1,1892 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Paraphrasing Tool</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="theme-color" content="#000" />
+<meta name="description" content="Paraphrasing tool helps you to rephrase sentences quickly. You can paraphrase essays & articles to remove plagiarism with this sentence rephraser.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="csrf-token" content="4YRgrQSVBouUET5k2XDX9bvfOPwE12iIVarZBZmT" />
+<link rel="canonical" href="https://smallseotools.com/paraphrasing-tool/">
+<link rel="alternate" hreflang="x-default" href="https://smallseotools.com/paraphrasing-tool/" /><link rel="alternate" hreflang="en" href="https://smallseotools.com/paraphrasing-tool/" /><link rel="alternate" hreflang="ru" href="https://smallseotools.com/ru/paraphrasing-tool/" /><link rel="alternate" hreflang="ja" href="https://smallseotools.com/ja/paraphrasing-tool/" /><link rel="alternate" hreflang="it" href="https://smallseotools.com/it/paraphrasing-tool/" /><link rel="alternate" hreflang="fr" href="https://smallseotools.com/fr/paraphrasing-tool/" /><link rel="alternate" hreflang="pt" href="https://smallseotools.com/pt/paraphrasing-tool/" /><link rel="alternate" hreflang="es" href="https://smallseotools.com/es/paraphrasing-tool/" /><link rel="alternate" hreflang="de" href="https://smallseotools.com/de/paraphrasing-tool/" /><link rel="alternate" hreflang="zh" href="https://smallseotools.com/zh/paraphrasing-tool/" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Paraphrasing Tool - Best Paraphraser 100% Free">
+<meta property="og:description" content="Paraphrasing tool helps you to rephrase sentences quickly. You can paraphrase essays & articles to remove plagiarism with this sentence rephraser.">
+<meta property="og:url" content="https://smallseotools.com/paraphrasing-tool/" />
+<meta property="og:image" content="https://cdn.smallseotools.com/og-images/1644831777-homepage.png" />
+<meta property="og:site_name" content="Paraphrasing Tool - Best Paraphraser 100% Free" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@smallseotools.com" />
+<meta name="twitter:title" content="Paraphrasing Tool - Best Paraphraser 100% Free" />
+<meta name="twitter:description" content="Paraphrasing tool helps you to rephrase sentences quickly. You can paraphrase essays & articles to remove plagiarism with this sentence rephraser.">
+<meta name="twitter:image" content="https://cdn.smallseotools.com/og-images/1644831777-homepage.png" />
+<link rel="preload" href="https://smallseotools.com/webimages/search.svg" as="image">
+<link rel="preload" href="https://smallseotools.com/webimages/drop_chevron.svg" as="image">
+<link rel="shortcut icon" href="https://smallseotools.com/webimages/favicon.webp" type="image/x-icon">
+<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,700&display=swap" rel="stylesheet">
+<link href="https://smallseotools.com/css/app.css" rel="stylesheet">
+<link href="https://smallseotools.com/css/templates.css?1677389351" rel="stylesheet">
+<link href="https://smallseotools.com/css/feedback-form.css" rel="stylesheet">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-39540269-1"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'UA-39540269-1');
+	</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZVFQ50NB89"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-ZVFQ50NB89');
+	</script>
+<script data-cfasync="false" type="text/javascript">(function(w, d) { var s = d.createElement('script'); s.src = '//delivery.adrecover.com/41501/adRecover.js'; s.type = 'text/javascript'; s.async = true; (d.getElementsByTagName('head')[0] || d.getElementsByTagName('body')[0]).appendChild(s); })(window, document);</script>
+<link href="https://smallseotools.com/css/article_rewriter.css" rel="stylesheet">
+<style>
+		.process_textarea.ar_txtarea{min-height:260px}
+	</style>
+<style>
+		#pp_alertmodal .modal-dialog {
+			max-width: 500px;
+			margin: 1.75rem auto;
+		}
+		#pp_alertmodal .modal-dialog .modal-content {
+			background-size: 100% 100%;
+			border: 10px solid #fff;
+			border-radius: 0 !important;
+		}
+		#pp_alertmodal .modal-header {
+			text-align: right;
+			display: block;
+			padding: 10px 10px;
+		}
+		#pp_alertmodal .modal-header button.crosss {
+			background: #000;
+			color: #fff;
+			border: none;
+			border-radius: 50px;
+			padding: 4px 9px;
+			font-weight: bold;
+			cursor: pointer;
+		}
+		.pp_alertmodal .modal-dialog .modal-content{min-height:425px}
+        #pp_alertmodal .modal-dialog .modal-content{
+            background-image: url('https://smallseotools.com/webimages/ai-bg.png');
+        }
+        #pc_alertmodal .modal-dialog .modal-content{
+            background-image: url('https://smallseotools.com/webimages/pc-pro-banner-popup.png');
+        }
+        .pp_alertmodal .modal-body img{width:80px}
+        .pp_alertmodal .modal-body p{
+            width: 198px;
+            margin: 20px 0px;
+            font-size: 21px;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+        .pp_alertmodal .modal-body div{
+            display: flex;
+            align-items: center;
+            text-indent: 8px;
+            margin-bottom: 12px;
+			font-weight:700
+        }
+        .pp_alertmodal .modal-body div:before{
+            content:"";
+            background-image: url('https://smallseotools.com/webimages/check.png');
+            width: 20px;
+            height: 20px;
+            display: inline-block;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .pp_alertmodal .modal-body a,.pp_alertmodal .modal-body a:hover{
+            background-color: #000;
+            color: #fff;
+            font-size: 20px;
+            width: 170px;
+            height: 50px;
+            display: inline-block;
+            text-align: center;
+            line-height: 50px;
+            font-weight: 800;
+            margin: 15px 0px;
+        }
+		.plag_lang .item_box{
+			min-width: 250px;
+			padding: 7px 1em;
+			cursor: pointer;
+			display: grid;
+			align-items: center;
+			grid-template-columns: 12.5% 82% 5%;
+		}
+		.plag_lang .item_box:hover{
+			background-color: #e9e9e9;
+		}
+		.plag_lang .item_box.free_mode:before {
+			background: none;
+		}
+		.plag_lang .item_box:before {
+			content: "";
+			background-image: url('https://smallseotools.com/webimages/pricing_icon.svg');
+			width: 21px;
+			height: 21px;
+			background-size: cover;
+			background-repeat: no-repeat;
+			display: inline-block;
+		}
+		.plag_lang .item_box.lock:after{
+			content: "";
+			background-image: url('https://smallseotools.com/webimages/lock.png');
+			width: 11px;
+			height: 14px;
+			background-repeat: no-repeat;
+			display: inline-block;
+		}
+	</style>
+<style>
+					[id="top__sst"],[id="b_b__sst"],[id="b_b__sst"]{
+				min-height:100px;
+			}
+				[id="a_t__sst"],[id="a_b__sst"],[id="s_m__sst"]{
+			min-height:300px;
+		}
+		[id="s_t__sst"],[id="s_b__sst"]{
+			min-height:260px;
+		}
+		.new___s_ img{
+			max-width: 100%;
+		}
+		.px105{min-height: 101px}
+		.px305{min-height: 301px}
+		.px265{min-height: 261px}
+		.sticky {
+			position: fixed;
+			top:55px;
+			width: 100%;
+			z-index: 1;
+		}
+	</style>
+<style>
+		.garammarly_carousal1{
+			width:300px;
+			margin:0px auto
+		}
+		.garammarly_carousal1 .try_now {
+			font-size: 16px;
+			width: 90px;
+			min-height: 32px;
+			background: #1e70b9;
+			position: initial !important;
+		}
+		.garammarly_carousal1 .carousel-indicators li{background-color: #e3e7ed;width: 10px;height: 10px;}
+		.garammarly_carousal1 .carousel-indicators .active{background-color: #1e70b9;}
+		.garammarly_carousal1 .logo_crumb img{width: 101px;height: 23px;}
+		.garammarly_carousal1 .carousel-indicators{width: max-content;}
+		.garammarly_carousal1 .gc_txt{font-size: 26px;font-family: "Nunito", sans-serif;}
+		.garammarly_carousal1 .logo_crumb{
+			position: relative !important;
+			height: 36px;
+			width: 134px;
+			clip-path: polygon(0 0, 88% 1%, 100% 98%, 0 100%);
+			top: 0px !important;
+		}
+		.garammarly_carousal1 .logo_crumb_sty::after{
+			content: "";
+			background: #e3e7ed;
+			width: 6px;
+			height: 37px;
+			position: absolute;
+			transform: skew(20deg,0deg);
+			right: 5px;
+		}
+		.garammarly_baner{width: 1200px;min-height: 59px;}
+		.garammarly_baner .try_now{font-size: 16px;width: 100px;min-height: 40px;background: #1e70b9;}
+		.garammarly_baner .gb_heading{font-size: 22px;}
+		.garammarly_baner .gb_txt{font-size: 18px;}
+		.garammarly_baner .logo_crumb{position: relative;height: 54px;}
+		.garammarly_baner .logo_crumb::after{
+			content: "";
+			background: #e3e7ed;
+			width: 6px;
+			height: 58px;
+			position: absolute;
+			transform: skew(20deg,0deg);
+			right: -17px;
+		}
+		@media (max-width: 767px){
+			.garammarly_baner{
+				width:100%;
+				text-align:center;
+				padding-right:0px !important
+			}
+			.garammarly_baner .logo_crumb{
+				display: block;
+				width: 100%;
+				margin: 12px 0px;
+			}
+			.garammarly_baner .gb_heading{
+				margin: 0px !important;
+				text-align: center;
+				display: block;
+				width: 100%;
+			}
+			.garammarly_baner .gb_txt{width:100%}
+			.garammarly_baner .try_now{margin:15px auto}
+			.garammarly_baner .logo_crumb::after{
+				display: none;
+			}
+		}
+		.side_area ._adr_abp_container{margin-top:10px !important;}
+		/* loader css */
+		.sst_loader{
+			display: block;
+			position: relative;
+			height: 32px;
+			width: 190px;
+			box-sizing: border-box;
+			overflow: hidden;
+			border: 2px solid #FFF;
+			border-radius: 20px;
+		}
+		.sst_loader:before{
+			content: '';
+			position: absolute;
+			left: 0;
+			bottom: 2px;
+			width: 24px;
+			height: 24px;
+			border-radius: 50%;
+			background: #FF3D00;
+			animation: sst_loader_animate 3s ease-in-out infinite;
+		}
+		
+		@keyframes  sst_loader_animate {
+			0% {  
+				left: 0; 
+				transform: translateX(0%); 
+				box-shadow: 
+				-5px 0 0 -1px rgba(255, 61, 0, 0.9),
+				-10px 0 0 -2px rgba(255, 61, 0, 0.8),
+				-15px 0 0 -4px rgba(255, 61, 0, 0.6),
+				-20px 0 0 -6px rgba(255, 61, 0, 0.4),
+				-25px 0 0 -8px rgba(255, 61, 0, 0.2);
+			}
+			49% {  
+				left: 100%; 
+				transform: translateX(-100%); 
+				box-shadow: 
+				-5px 0 0 -1px rgba(255, 61, 0, 0.9),
+				-10px 0 0 -2px rgba(255, 61, 0, 0.8),
+				-15px 0 0 -4px rgba(255, 61, 0, 0.6),
+				-20px 0 0 -6px rgba(255, 61, 0, 0.4),
+				-25px 0 0 -8px rgba(255, 61, 0, 0.2);
+			}
+			51% {  
+				left: 100%; 
+				transform: translateX(-100%); 
+				box-shadow: 
+				5px 0 0 -1px rgba(255, 61, 0, 0.9),
+				10px 0 0 -2px rgba(255, 61, 0, 0.8),
+				15px 0 0 -4px rgba(255, 61, 0, 0.6),
+				20px 0 0 -6px rgba(255, 61, 0, 0.4),
+				25px 0 0 -8px rgba(255, 61, 0, 0.2);
+			}
+			100% {  
+				left: 0; 
+				transform: translateX(0%); 
+				box-shadow: 
+				5px 0 0 -1px rgba(255, 61, 0, 0.9),
+				10px 0 0 -2px rgba(255, 61, 0, 0.8),
+				15px 0 0 -4px rgba(255, 61, 0, 0.6),
+				20px 0 0 -6px rgba(255, 61, 0, 0.4),
+				25px 0 0 -8px rgba(255, 61, 0, 0.2);
+			}
+		}
+		#loader_con11 {
+			position: fixed;
+			width: 100%;
+			height: 100%;
+			top: 0px;
+			left: 0px;
+			align-items: center;
+			justify-content: center;
+			z-index: 1080;
+			display: flex;
+			background-color: #14141491;
+			flex-direction: column;
+		}
+		#loader_con11 p{
+			color: #fff;
+			font-weight: 700;
+			font-size: 16px;
+		}
+	</style>
+</head>
+<body>
+<map name="FITS_Map" id="FITS_Map" style="cursor:pointer;">
+<area href="" target="_self" alt="Close Popup" title="Close Popup" coords="411,317,728,403" shape="rect">
+</map>
+<div id="messages_co"></div>
+<div id="cookie-bar"><p>By clicking "Accept" or continuing to use our site, you agree to our Privacy Policy for Website<span onclick="return false;" class="cb-enable bg-white text-dark py-1 px-3 ml-2 rounded cp">Accept</span><a href="https://smallseotools.com/privacy/" class="cb-policy">Privacy Policy</a></p></div>
+<style>
+    #ads_free_button{
+        position: fixed;
+        left: 0;
+        top: 220px;
+        background: #564190;
+        z-index: 9;
+        width: 95px;
+        padding: 6px;
+        word-break: break-word;
+        text-align: center;
+        font-size: 16px;
+    }
+    .ads_free_icon_mob{
+        background-image: url('https://smallseotools.com/webimages/adfree icon-yellow.svg') !important;
+        width:65px;
+        height:30px;
+        display:inline-block;
+        background-color:#564190 !important;
+        background-size:85% 80% !important;
+        background-position:center !important;
+        background-repeat:no-repeat !important;
+
+    }
+    </style>
+<div class="fixed-top bg-white d-flex border1 border-left-0 border-right-0 border-top-0">
+<span class="nav_beta_con d-none"><span class="nav_beta">BETA</span></span>
+<nav class="navbar navbar-expand-lg navbar-dark cus_nav mx-auto">
+<a class="navbar-brand" href="https://smallseotools.com/">
+<img src="https://smallseotools.com/webimages/logo.svg" alt="Image of website logo" class="img-fluid logo_img" width="200" height="31">
+</a>
+<div class="d-flex align-items-center">
+<div class="dn_mode d-none mx-2 mr-3" onclick="theme_change_f()"></div>
+<button class="navbar-toggler navbar-toggler-right collapsed p-0 border-0 nav_tbtn" type="button" data-toggle="collapse" data-target="#navb" aria-expanded="false">
+<span class="toggle_icon d-inline-block clr_fff"></span>
+</button>
+</div>
+<div class="navbar-collapse collapse" id="navb">
+<div class="log_register mt-3 text-center d-none roe mx-0 align-items-center justify-content-center">
+<a href="https://smallseotools.com/login/" class="rounded text-white d-inline-flex align-items-center justify-content-center mr-2">Login</a>
+</div>
+<ul class="navbar-nav ml-auto">
+<li class="nav-item mdn pro_pricing">
+<a class="nav-link fw_600 cp pro_pricing_bg d-flex align-items-center justify-content-center" href="https://pro.smallseotools.com/pricing" onclick="tool_trigger('navbar price')">
+<img src="https://smallseotools.com/webimages/pricing_icon.svg" alt="PRO Pricing" class="img-fluid mr-2">Pricing </a>
+</li>
+<li class="nav-item mob_links_bb br_hover ">
+<a class="nav-link fw_600 d-flex" href="https://smallseotools.com/plagiarism-checker/">
+<span class="mob_plag mob_icons"></span>Plagiarism Checker </a>
+</li>
+<li class="nav-item mob_links_bb br_hover ">
+<a class="nav-link fw_600 d-flex" href="https://smallseotools.com/grammar-checker/">
+<span class="mob_grammar mob_icons"></span>Free Grammar Checker </a>
+</li>
+<li class="nav-item mob_links_bb br_hover ">
+<a class="nav-link fw_600 d-flex" href="https://smallseotools.com/reverse-image-search/">
+<span class="mob_reverse mob_icons"></span>Reverse Image Search </a>
+</li>
+<li class="nav-item mdn">
+<a class="nav-link fw_600" href="https://smallseotools.com/login/">Login</a>
+</li>
+</ul>
+<div class="mob_lang_area fw_600 d-none mt-2">
+<div class="mob_languages fw_700 d-flex align-items-center cp">
+<span class="mob_lang mob_icons d-inline-block"></span>Languages <span class="mob_languages2 d-inline-block ml-2"></span>
+</div>
+<div class="mob_lang_link ml-n2 d-none mt-2">
+<div class="row m-0">
+<div class="col-6">
+ <a class="d-flex align-items-center dropdown-item px-0 active_lang" href="https://smallseotools.com/paraphrasing-tool/">
+<span class="countery-icons rk-en"></span>English - EN
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/ru/paraphrasing-tool/">
+<span class="countery-icons rk-ru"></span>русский - RU
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/ja/paraphrasing-tool/">
+<span class="countery-icons rk-ja"></span>日本語 - JA
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/it/paraphrasing-tool/">
+<span class="countery-icons rk-it"></span>Italiano - IT
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/fr/paraphrasing-tool/">
+<span class="countery-icons rk-fr"></span>Français - FR
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+ <a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/pt/paraphrasing-tool/">
+<span class="countery-icons rk-pt"></span>Português - PT
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/es/paraphrasing-tool/">
+<span class="countery-icons rk-es"></span>Español - ES
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/de/paraphrasing-tool/">
+<span class="countery-icons rk-de"></span>Deutsche - DE
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/zh/paraphrasing-tool/">
+<span class="countery-icons rk-zh"></span>中文 - ZH
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="p-4 mps mob_search d-none mt-2">
+<div class="input-group">
+<input type="search" id="mob_cros_icon" class="form-control mob_search_inp rounded-0 bg-white border1 clr_fff" placeholder="Type any word to search for SEO tools">
+<div class="mob_search_img d-flex align-items-center justify-content-center">
+<span class="cross_icon clr_fff bg_383b3d">&times;</span>
+<span data-rklazy='{"fullpath":"https://smallseotools.com/webimages/mob_search.svg","type":"img","alt":"image of mobile search"}'></span>
+</div>
+</div>
+
+<div class="search_output bg-white pt-3 px-4 pb-4 row border1 fw_600 mps">
+<div class="row m-0"></div>
+</div>
+</div>
+<div class="search_position">
+ <img src="https://smallseotools.com/webimages/search.svg" alt="Type any word to search for SEO tools" class="search_img mr-3 ml-2" id="desktop_toggle_search" width="20" height="20">
+<div class="desk_search">
+<div class="bg-white border1 p-2 bg_202223">
+<div class="search_position">
+<img src="https://smallseotools.com/webimages/search.svg" alt="" style="position: absolute;top: 16px;left: 20px;">
+<input type="text" class="form-control search_inp rounded bg_f6f8fa border1 clr_fff pr-4 pl-5" placeholder="Type any word to search for SEO tools">
+<span class="cross_icon_desktop clr_fff">&times;</span>
+</div>
+<div class="search_output bg-white pt-3 px-4 pb-4 row mx-0 fw_600">
+<div class="row">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="dropdown lang_btn d-inline-flex align-items-center fw_600 bg_fff bg_383b3d p-0">
+<button type="button" class="btn dropdown-toggle clr_fff p-0 border-0 px-2 h-100" data-toggle="dropdown" id="chev_toggle">
+<img src="https://smallseotools.com/webimages/global_lang.svg" alt="image of languages">
+English
+<span class="d-inline-block up_chev" id="toggle_it"></span>
+</button>
+<div class="dropdown-menu rounded-0 px-4 lang_drop">
+<div class="row">
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 active_lang" href="https://smallseotools.com/paraphrasing-tool/">
+<span class="countery-icons rk-en"></span>English - EN
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/ru/paraphrasing-tool/">
+<span class="countery-icons rk-ru"></span>русский - RU
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/ja/paraphrasing-tool/">
+<span class="countery-icons rk-ja"></span>日本語 - JA
+</a>
+ <div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/it/paraphrasing-tool/">
+<span class="countery-icons rk-it"></span>Italiano - IT
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/fr/paraphrasing-tool/">
+<span class="countery-icons rk-fr"></span>Français - FR
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/pt/paraphrasing-tool/">
+<span class="countery-icons rk-pt"></span>Português - PT
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/es/paraphrasing-tool/">
+<span class="countery-icons rk-es"></span>Español - ES
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/de/paraphrasing-tool/">
+<span class="countery-icons rk-de"></span>Deutsche - DE
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+ <div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/zh/paraphrasing-tool/">
+<span class="countery-icons rk-zh"></span>中文 - ZH
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="navbar_mt"></div>
+<div class="day_night bg-white border1 fw_700 p-2 text-center">
+<div class="dn_mode d-none d-inline-block"></div>
+<div data-light="Light Mode" data-dark="Dark Mode" id="theme_mode_text">
+Light Mode </div>
+<label class="switch d-inline-block mb-0">
+<input type="checkbox" onclick="theme_change_f()">
+<span class="slider round cp"></span>
+</label>
+</div>
+<a id="ads_free_button" class="text-white fw_700 cp button_blink text-decoration-none" onclick="tool_trigger('Ads Free')" href="https://pro.smallseotools.com/ads-free">
+<div href="https://pro.smallseotools.com/ads-free">
+<img src="https://smallseotools.com/webimages/adfree icon-yellow.svg">
+</div>
+<span>Ad-Free</span>
+</a>
+<div id="feebackBtn" class="text-white fw_700 d-flex align-items-center justify-content-center cp">
+<span>Rate us!</span>
+</div>
+<div id="feeback-icon">
+<script type="text/javascript" style="display:none">
+//<![CDATA[
+window.__mirage2 = {petok:"VzeXDWpRsit7xTqsoXwmw9yBemOfOJyh6ukimyWlJT4-1800-0"};
+//]]>
+</script>
+<script type="text/javascript" src="https://ajax.cloudflare.com/cdn-cgi/scripts/04b3eb47/cloudflare-static/mirage2.min.js"></script>
+<img data-cfsrc="https://smallseotools.com/webimages/bug_report_icon.png" alt="Report Bug" width="16" height="16" style="display:none;visibility:hidden;"><noscript><img src="https://smallseotools.com/webimages/bug_report_icon.png" alt="Report Bug" width="16" height="16"></noscript>
+</div>
+<div id="loader_con11" class="d-none">
+<div class="sst_loader"></div>
+<p></p>
+</div>
+<div id="loader_con" class="d-none"></div>
+<div class="pt-4">
+<div class="d-flex justify-content-center mb-2">
+<samp class="d-block mx-auto my-2 text-center" id="top__sst"><div class="new___s_ bq"></div></samp>
+</div>
+<div class="d-flex justify-content-center px-2 mb-3">
+<div class="main_area text-center">
+<div id="tooltip_box"></div>
+<div class="col bg-white p-0 border1">
+<samp class="d-block mx-auto my-2 text-center" id="b_t__sst"><div class="new___s_ bq"></div></samp>
+<h1 class="col-12 sub_headings heading_border p-3 m-0">Paraphrasing Tool</h1>
+<div class="col px-4 pb-4 mps">
+<p class="sub_text mx-auto my-4 px-4">Paraphrasing tool helps you to paraphrase your articles online. This rephrase tool can reword sentences &amp; paragraphs in a couple of seconds.</p>
+<samp class="d-block mx-auto my-2 text-center" id="a_t__sst"><div class="new___s_ sq"></div></samp>
+<a href="https://pro.smallseotools.com/paraphrasing-pricing" onclick="tool_trigger('PC pricing banner')" class="pc_pro_banner border-bottom-0 d-lg-flex d-block text-decoration-none text-body pb-2 border1 bg_383b3d mt-3">
+<span class="banner_flag d-inline-flex text-center text-white fw_700 align-items-center justify-content-center p-1 m-0">
+<img data-cfsrc="https://smallseotools.com/webimages/pc-crown1.png" alt="pro" class="mr-2" style="display:none;visibility:hidden;"><noscript><img src="https://smallseotools.com/webimages/pc-crown1.png" alt="pro" class="mr-2"></noscript>
+<div>Article<br>Rewriter </div><span class="pro_sty rounded fw_700 d-inline-block mt-4 ml-1 text-body">PRO</span>
+</span>
+<div class="row mx-auto justify-content-center">
+<span class="banner_button d-inline-block bg-white fw_600 bg_202223 clr_fff">
+<img src="https://smallseotools.com/webimages/ai_based.svg" alt="pro" class="mr-1">AI Technology </span>
+<span class="banner_button d-inline-block bg-white fw_600 bg_202223 clr_fff">
+<img src="https://smallseotools.com/webimages/ar_creative.svg" alt="pro" class="mr-1">Creative </span>
+<span class="banner_button d-inline-block bg-white fw_600 bg_202223 clr_fff">
+<img src="https://smallseotools.com/webimages/ar_multimode.svg" alt="pro" class="mr-1">Multi Mode </span>
+<span class="banner_button d-inline-block bg-white fw_600 bg_202223 clr_fff">
+<img src="https://smallseotools.com/webimages/ar_multilang.svg" alt="pro" class="mr-1">Multi Language </span>
+<span class="anchor d-inline-block fw_600 text-white">Click here</span>
+</div>
+</a>
+<form method="POST" action="https://smallseotools.com/paraphrasing-tool/" accept-charset="UTF-8" id="paraphrasing-tool-form"><input name="_token" type="hidden" value="4YRgrQSVBouUET5k2XDX9bvfOPwE12iIVarZBZmT">
+<div class="tool_input p-4 mps border1" ondragover="_ondragover(event)" ondrop="_ondrop(event)" ondragleave="_ondragleave(event)" ondragenter="_ondragenter(event)">
+<div class="status_tabs bg-white border1 border-bottom-0 text-center d-flex align-items-center px-md-3 py-2 px-1 justify-content-between bg_2f3133 clr_fff">
+<div class="border1 rounded-circle p-2 img_sty step_1"></div>
+<div class="fw_700 txt_sty mx-1">Paste Article</div>
+<div class="rounded progressbar_sty mx-1 step_2"></div>
+<div class="border1 rounded-circle p-2 img_sty step_2 mx-1"></div>
+<div class="fw_700 txt_sty mx-1 step_2">Processing<br><i></i></div>
+<div class="rounded progressbar_sty mx-1 step_3"></div>
+<div class="border1 rounded-circle p-2 img_sty step_3 mx-1"></div>
+<div class="fw_700 txt_sty">Done</div>
+</div>
+<div class="input_section bg-white">
+<textarea id="textbox" class="d-flex ar_txtarea p-2 cus_scrollbar" onpaste="count()" onKeyup="count()" name="ar_text" cols="50" rows="10"></textarea>
+<div class="upload_option">
+<p class="d1 fw_700">Paste content here to rewrite</p>
+<p class="d2 fw_700">OR</p>
+<p class="d1 fw_700">Drop file here</p>
+<p class="d4 fw_700">(.tex,.txt,.doc,.docx,.odt,.pdf,.rtf)</p>
+<div class="d-inline-flex">
+<label for="fileUpload">
+<div class="upload_btns bg_f6f8fa m-1 upload_file"></div>
+<input class="d-none" id="fileUpload" accept=".txt,.doc,.docx,.odt,.pdf,.rtf,.tex" name="fileUpload" type="file">
+</label>
+<div class="upload_btns bg_f6f8fa m-1 dropbox"></div>
+<div class="upload_btns bg_f6f8fa m-1 google_drive" onclick="loadPicker()"></div>
+</div>
+</div>
+<div class="ml-1 bg_202223 text-right" id="clear_icon_con" style="display:none;">
+<img src="https://smallseotools.com/webimages/clear_txt.svg" onclick="clear_elements({'v':{'textbox':'','fileUpload':''},'t':{'count_':'0'}},this,'Cleared!')" data-name="Clear?" data-toggle="tooltip" title="Clear?" alt="image of clear text" class="img-fluid">
+</div>
+</div>
+<div class="row mx-0 justify-content-center text-left mt-2 clr_fff">
+<div class="m-2">
+<div class="fw_700">Languages</div>
+<div class="dropdown plag_lang bg-white d-inline-flex align-items-center border1 fw_600 cp justify-content-between px-2" role="menu" data-toggle="dropdown" aria-expanded="false">
+<span class="mr-1 clr_fff" id="lang_text_change">English - EN</span>
+<img src="https://smallseotools.com/webimages/drop_chevron.svg" alt="image of dropdown arrow" class="img-fluid" width="14" height="8">
+<div class="dropdown-menu rounded-0 px-4 lang_drop" id="lang_drop_textarea">
+<a class="d-flex align-items-center dropdown-item px-0" data-lang="en" href="https://smallseotools.com/article-rewriter/"><span class="countery-icons rk-en"></span>English - EN</a>
+<div class="dropdown-divider my-1"></div>
+<a class="d-flex align-items-center dropdown-item px-0" data-lang="fr" href="https://smallseotools.com/fr/article-rewriter/"><span class="countery-icons rk-fr"></span>Français - FR</a>
+<div class="dropdown-divider my-1"></div>
+<a class="d-flex align-items-center dropdown-item px-0" data-lang="ru" href="https://smallseotools.com/ru/article-rewriter/"><span class="countery-icons rk-ru"></span>Pусский - RU</a>
+<div class="dropdown-divider my-1"></div>
+<a class="d-flex align-items-center dropdown-item px-0" data-lang="es" href="https://smallseotools.com/es/article-rewriter/"><span class="countery-icons rk-es"></span>Español - ES</a>
+<div class="dropdown-divider my-1"></div>
+<a class="d-flex align-items-center dropdown-item px-0" data-lang="it" href="https://smallseotools.com/it/article-rewriter/"><span class="countery-icons rk-it"></span>Italiano - IT</a>
+<div class="dropdown-divider my-1"></div>
+<a class="d-flex align-items-center dropdown-item px-0" data-lang="nl" href="https://smallseotools.com/article-rewriter/"><span class="countery-icons rk-nl"></span>Dutch - NL</a>
+<div class="dropdown-divider my-1"></div>
+<a class="d-flex align-items-center dropdown-item px-0" data-lang="de" href="https://smallseotools.com/de/article-rewriter/"><span class="countery-icons rk-de"></span>German - DE</a>
+<div class="dropdown-divider my-1"></div>
+<a class="d-flex align-items-center dropdown-item px-0" data-lang="pt" href="https://smallseotools.com/pt/article-rewriter/"><span class="countery-icons rk-pt"></span>Portuguese - PT</a>
+<div class="dropdown-divider my-1"></div>
+<a class="d-flex align-items-center dropdown-item px-0" data-lang="tr" href="https://smallseotools.com/article-rewriter/"><span class="countery-icons rk-tr"></span>Turkish - TR</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+</div>
+</div>
+<div class="m-2">
+<div class="fw_700">Modes</div>
+<div class="dropdown plag_lang bg-white d-inline-flex align-items-center border1 fw_600 cp justify-content-between px-2" role="menu" data-toggle="dropdown" aria-expanded="false">
+<span class="mr-1 clr_fff">Smart Spin Recommended</span>
+<img src="https://smallseotools.com/webimages/drop_chevron.svg" alt="image of dropdown arrow" class="img-fluid" width="14" height="8">
+<div class="dropdown-menu rounded-0 lang_drop clr_fff" id="lang_drop_textarea_modes">
+<div class="item_box free_mode">
+<span id="smart_spin">Smart Spin Recommended</span>
+</div>
+<div class="item_box lock">
+<span id="ultra_spin">Ultra Spin</span>
+</div>
+<div class="item_box lock">
+<span id="spin_manual">Spin Manual</span>
+</div>
+<div class="item_box lock">
+<span id="AI_Writer">AI Writer</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="d-flex justify-content-between limit_count my-2">
+<div class="row mx-0 align-items-center justify-content-center">
+<div class="mr-3">Limit: 2000 Words</div>
+<span class="border1 pc_limit_text bg_202223"> Break the word limit in
+<a href="https://pro.smallseotools.com/paraphrasing-pricing?weekly" onclick="tool_trigger('PR limit banner')" class="button_blink">$12</a> only </span>
+</div>
+<div>Words count: <span id="count_">0</span></div>
+</div>
+<samp class="d-block mx-auto my-2 text-center" id="b_b__sst"><div class="new___s_ bq"></div></samp>
+<div class="col p-0 my-3 row mx-0 align-items-center justify-content-center">
+<button class="tool_btn px-3 text-white border-0 m-1 g-recaptcha " name="rewrite_article" captcha-load="Paraphrase" data-sitekey="6Lc2k8UZAAAAAFoaFQLbl6jIUpt4zAoO7ppG2lpN" data-callback="check_validation" type="button">Loading</button>
+<a href="https://pro.smallseotools.com/paraphrasing-pricing" rel="nofollow noopner" class="tool_btn px-3 text-white border-0 m-1 d-inline-flex justify-content-center align-items-center text-decoration-none" target="_blank" style="background: #222222;"><img data-cfsrc="https://smallseotools.com/webimages/pc-crown1.png" alt="pro" class="mr-2" style="display:none;visibility:hidden;"><noscript><img src="https://smallseotools.com/webimages/pc-crown1.png" alt="pro" class="mr-2"></noscript>AI Rewriter</a>
+<a href="https://www.grammarly.com/?q=grammar&utm_source=placement&utm_medium=cpc&utm_content=sst_ar_gc_btn&utm_term=smallseotools" rel="nofollow noopner" onclick="tool_trigger('Grammarly Button Blink PP')" class="tool_btn px-3 text-white border-0 m-1 d-inline-flex justify-content-center align-items-center text-decoration-none button_blink" target="_blank">Check Grammar</a>
+</div>
+<samp class="d-block mx-auto my-2 text-center" id="a_b__sst"><div class="new___s_ sq"></div></samp>
+<input id="tool_lang" name="tool_lang" type="hidden" value="en">
+</form>
+</div>
+</div>
+<div id="accordion_content" class="content_heading bg-white border1 mt-4">
+<h2>How to Use Paraphrasing Tool by SmallSEOTools.com</h2> <p>Paraphrase tool lets you Paraphrase text instantly by following the simple steps mentioned below:</p> <div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"><strong>Step 1: Enter the text into the input section or upload a file from your system.&nbsp;</strong></div> <p><img alt="Paraphrasing tool input box" data-cfsrc="https://cdn.smallseotools.com/blog-images/1674818216-PT1.png" data-cfstyle="width: 770px; height: 500px;" style="display:none;visibility:hidden;" /><noscript><img alt="Paraphrasing tool input box" src="https://cdn.smallseotools.com/blog-images/1674818216-PT1.png" style="width: 770px; height: 500px;" /></noscript></p> <div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"><strong>Step 2: Click the &ldquo;Paraphrase&rdquo; Button.</strong></div> <p><img alt="Rephrase Button" data-cfsrc="https://cdn.smallseotools.com/blog-images/1674818974-PT2.png" data-cfstyle="width: 770px; height: 500px;" style="display:none;visibility:hidden;" /><noscript><img alt="Rephrase Button" src="https://cdn.smallseotools.com/blog-images/1674818974-PT2.png" style="width: 770px; height: 500px;" /></noscript></p> <div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"><strong>Step 3: Choose the most appropriate synonyms.</strong></div> <p><img alt="Choose Synonyms " data-cfsrc="https://cdn.smallseotools.com/blog-images/1674819088-PT3.png" data-cfstyle="width: 770px; height: 500px;" style="display:none;visibility:hidden;" /><noscript><img alt="Choose Synonyms " src="https://cdn.smallseotools.com/blog-images/1674819088-PT3.png" style="width: 770px; height: 500px;" /></noscript></p> <div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"><strong>Step 4: Download your file within one click.</strong></div> <p><img alt="Paraphrasing Download Button" data-cfsrc="https://cdn.smallseotools.com/blog-images/1674819248-PT4.png" data-cfstyle="width: 770px; height: 82px;" style="display:none;visibility:hidden;" /><noscript><img alt="Paraphrasing Download Button" src="https://cdn.smallseotools.com/blog-images/1674819248-PT4.png" style="width: 770px; height: 82px;" /></noscript></p> <div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"><strong>Pro tip: You can also check for plagiarism, rewrite again, share, print, and more.</strong></div> <p><img alt="Check Plagiarism Button " data-cfsrc="https://cdn.smallseotools.com/blog-images/1674819293-PT5.png" data-cfstyle="width: 770px; height: 89px;" style="display:none;visibility:hidden;" /><noscript><img alt="Check Plagiarism Button " src="https://cdn.smallseotools.com/blog-images/1674819293-PT5.png" style="width: 770px; height: 89px;" /></noscript></p> <h2>Why You Need Paraphraser?&nbsp;</h2> <p>Our paraphrase tool can be applied to a wide range of tasks and is beneficial for any writing-related work in the following ways. For example,</p> <ul> <li aria-level="1"> <h3 role="presentation">Get Rid of Plagiarism</h3> </li> </ul> <p>Plagiarism can damage the reputation and career of writers. However, this plagiarism rephraser allows them to eliminate plagiarism. There is no need to worry about the genuineness of the text generated by this rephrase tool. You can even check the plagiarism of paraphrased content with <a data-name="18-sst" href="https://smallseotools.com/plagiarism-checker/">plagiarism checker</a>.</p> <ul> <li aria-level="1"> <h3 role="presentation">Discard Manual Efforts</h3> </li> </ul> <p>Rewriting content is laborious and time-consuming. First, read the entire article and understand its main idea. Later, you have to explain the entire concept in your own words. This procedure is labor intensive. But this paraphraser allows you to rephrase sentence without typing a single word. Just upload the text, and you will get fresh content anytime.</p> <ul> <li aria-level="1"> <h3 role="presentation">Create Appealing Content</h3> </li> </ul> <p>To grab the audience&#39;s attention, content should have the appropriate vocabulary and excellent tones and styles, and our paraphrase tool can provide great content.</p> <ul> <li aria-level="1"> <h3 role="presentation">Improved Sentence Structure</h3> </li> </ul> <p>Manual paraphrasing hurts readability. However, this sentence rephraser only affects the structure of your content. And gives you well-written, rephrased text.</p> <table style="width: 500px;"> <tbody> <tr> <td>👍Best for:</td> <td> <div>Assignments, Thesis, Blogs</div> </td> </tr> <tr> <td>🚫 Removes:</td> <td>100% Plagiarism</td> </tr> <tr> <td>✓ Enhances:</td> <td>Grammar &amp; Vocabulary</td> </tr> <tr> <td>✍️ Improves:</td> <td>Clarity and readability</td> </tr> <tr> <td>🔥AI Modes:</td> <td>4+ styles</td> </tr> <tr> <td>🗺️ Multilingual:</td> <td>8+ Languages</td> </tr> <tr> <td>⌛ Time-Saving:</td> <td>One Click</td> </tr> </tbody> </table> <h2>Why SmallSEOTools Paraphrase Tool?</h2> <p>The professional paraphrasing tool offered by <a data-name="2-sst" href="https://smallseotools.com/">SmallSEOTools</a> is based on advanced algorithms that provide its users with top-quality article rephrasing. This online facility doesn&rsquo;t just change some words with synonyms; it focuses on providing a newer version of an existing article with a complete restatement. The users don&rsquo;t have to register or pay a penny to use this paraphrase tool. Its Advanced algorithms do the job independently without requiring human intervention. The paraphrasing execution is executed by this tool within a matter of seconds. You don&rsquo;t have to invest time or manual efforts in paraphrasing articles anymore due to the easy accessibility of this rephrase online tool.</p> <h2>Paraphrasing Modes</h2> <p>Our online rephraser offers four modes to write text; you can choose the following modes of this rephrasing tool that suits you best.</p> <h3 role="presentation"><strong>Smart Spin (Recommended):</strong></h3> <p>Use this mode as the paraphrase tool maintains the intent while making a few changes to make the content readable.</p> <ul> <li aria-level="1">Ensures smooth flow of information.&nbsp;</li> <li aria-level="1">Rectify punctuation or grammar mistakes.</li> </ul> <h3 role="presentation"><strong>Ultra Spin:</strong></h3> <p>Try the mode of this paraphraser to explain a complex idea in the simplest manner that everyone can easily understand.&nbsp;</p> <ul> <li aria-level="1">Improve clarity in the text.</li> <li aria-level="1">Humanize content.</li> </ul> <h3 role="presentation"><strong>Spin Manual:</strong></h3> <p>Boost your creativity and improve your readability score using this mode.</p> <ul> <li aria-level="1">Produce data to attract your audience</li> <li aria-level="1">Generate error-free text</li> </ul> <h3 role="presentation"><strong>AI Writer:</strong></h3> <p>Let the AI help you rephrase published content using the most suitable synonyms in this AI-powered mode.&nbsp;&nbsp;</p> <ul> <li aria-level="1">Advanced AI-based features</li> <li aria-level="1">Quick paraphrasing&nbsp;</li> </ul> <div> <table style="width: 500px;"> <colgroup> <col /> <col /> </colgroup> <tbody> <tr> <td> <p><strong>Modes</strong></p> </td> <td> <p><strong>Features</strong></p> </td> </tr> <tr> <td> <p><strong>Smart Spin Recommended: [Free Plan]</strong></p> </td> <td> <p>✅65 % Uniqueness</p> <p>✅Smooth flow of information</p> <p>✅100% Readability</p> <p>✅Rectify punctuation or grammar mistakes</p> </td> </tr> <tr> <td> <p><strong>Ultra Spin [Premium]</strong></p> </td> <td> <p>✅100 % Uniqueness</p> <p>✅Smooth flow of information</p> <p>✅100% Readability</p> <p>✅Improve clarity in the text</p> <p>✅Rectify punctuation or grammar mistakes</p> <p>✅Humanize content</p> </td> </tr> <tr> <td> <p><strong>Spin Manual [Premium]</strong></p> </td> <td> <p>✅100 % Uniqueness</p> <p>✅Smooth flow of information</p> <p>✅100% Readability</p> <p>✅Improve clarity in the text</p> <p>✅Rectify punctuation or grammar mistakes</p> <p>✅Humanize content</p> <p>✅Boost your creativity</p> </td> </tr> <tr> <td> <p><strong>AI Writer [Premium]</strong></p> </td> <td> <p>✅100 % Uniqueness</p> <p>✅Smooth flow of information</p> <p>✅100% Readability</p> <p>✅Improve clarity in the text</p> <p>✅Rectify punctuation or grammar mistakes</p> <p>✅Humanize content</p> <p>✅Boost your creativity</p> <p>✅Provides most appropriate synonyms</p> </td> </tr> </tbody> </table> </div> <h2>Features of Paraphrasing Tool by SmallSEOTools</h2> <p>You can enjoy the following features with the rephrase tool available on SmallSEOTools.</p> <ul> <li aria-level="1"> <h3 role="presentation">Upload as You Desire</h3> </li> </ul> <p>This sentence rephraser free provides you with multiple input ways. You can paste the text you wish to paraphrase. You can upload files from cloud storage and local device or directly drag and drop on this rephrase tool.</p> <ul> <li aria-level="1"> <h3 role="presentation">Variety of Synonyms</h3> </li> </ul> <p>While paraphrasing your text, this paraphrase online tool comes up with a wide choice of synonyms. The users are free to choose the desired synonyms that fit in their paraphrased version of articles. You don&rsquo;t have to worry about losing the original meaning of your article, as it provides you with a selection of words based on the context.</p> <ul> <li aria-level="1"> <h3 role="presentation">Paraphrase upto 2000 Words</h3> </li> </ul> <p>Our paraphraser has an expanded limit that allows you to rephrase online lengthy text in one go. It allows users to input up to 2000 words and quickly delivers top-notch paraphrased text.</p> <ul> <li aria-level="1"> <h3 role="presentation">Super Quick &amp; Easy</h3> </li> </ul> <p>This online paraphrasing tool helps you tackle all the intricacies attached to the manual paraphrasing method. The results are generated and delivered to the users within a flash of an eye. We highly value your time; hence, this tool works quickly to paraphrase your uploaded text.</p> <ul> <li aria-level="1"> <h3 role="presentation">Error-free Results</h3> </li> </ul> <p>You will get a paraphrased text with this rephrase tool, and it won&rsquo;t include any mistakes. The paraphrase online tool precisely rephrases a text to offer you a completely accurate outcome.</p> <ul> <li aria-level="1"> <h3 role="presentation">Multiple languages</h3> </li> </ul> <p>Our web-based rephrasing tool allows you to paraphrase text in multiple languages like English EN, Russian RU, Japanese JA, Italian IT, French FR, Portuguese PT, Spanish ES, German DE, and Chinese (Simplified).&nbsp;</p> <ul> <li aria-level="1"> <h3 role="presentation">One-Click Download</h3> </li> </ul> <p>Once the online paraphrasing tool completes the process, a download button will appear on your screen alongside the paraphrased text. After making the necessary modifications to your paraphrased text within this sentence changer, you can click the download button to save the file on your device. The file will be transferred to the default downloads folder within seconds.</p> <h2>What Are the Benefits of Using This Paraphrasing Tool?</h2> <ul> <li aria-level="1"> <h3 role="presentation">Productivity</h3> </li> </ul> <p>The key advantage of using this paraphrase tool is that you can generate as many articles as you desire without wasting time. Productivity is a severe issue when uploading blogs on a similar topic. The best <a data-name="26-sst" href="https://smallseotools.com/paraphrasing-tool/">paraphrasing tool</a> allows you to be more productive as it helps you generate newer versions of the existing articles without spending time or money.</p> <ul> <li aria-level="1"> <h3 role="presentation">Select the Adequate Synonyms</h3> </li> </ul> <p>Once you rephrase a paragraph, this paragraph changer highlights the words it has altered in your content. You can click on the word, search for other synonyms, and choose the one you find most suitable according to the sentence&rsquo;s structure.</p> <ul> <li aria-level="1"> <h3 role="presentation">Paraphrase Lengthy Text Instantly:</h3> </li> </ul> <p>Our online paraphrasing tool enables you to rephrase texts of up to 2000 words in a single go. You don&rsquo;t need to paraphrase lengthy content in different portions anymore, as you might have to do while using other paraphrasing tools.</p> <ul> <li aria-level="1"> <h3 role="presentation">No Need to pay Anyone</h3> </li> </ul> <p>The paraphraser you find on smallseotools.com offers an advanced and reliable tool that allows you to rephrase text without paying a single penny.</p> <ul> <li aria-level="1"> <h3 role="presentation">100% Secure</h3> </li> </ul> <p>This sentence rephraser keeps the integrity of your work. This tool&rsquo;s databases don&rsquo;t store or transmit your data to any other source. Once the paraphrasing of your article is completed, the tool safely removes your data on the spot.</p> <ul> <li aria-level="1"> <h3 role="presentation">No Compatibility Issues</h3> </li> </ul> <p>While using this rephrase online tool, the users won&rsquo;t face any compatibility issues. The sentence rephraser on this web portal is an online service that can be accessed through any device. You won&rsquo;t be asked to get a specific device or install any plugins for paraphrasing your articles with this online facility.</p> <h2>Who Can Use this Paraphrase Tool</h2> <ul> <li aria-level="1"> <h3 role="presentation">Students:</h3> </li> </ul> <p>Individuals in schools and colleges need to make academic assignments regularly. Writing assignments on different subjects requires extensive research, which often becomes challenging, especially if there is a time limit to deliver the work. Our paraphrase generator freely supports students in this terrible situation. Students can get aid from this paraphrasing tool free to create unique and human-looking content that they can submit to their supervisors without fearing plagiarism.&nbsp;</p> <ul> <li aria-level="1"> <h3 role="presentation">Researchers:</h3> </li> </ul> <p>Researchers can quickly paraphrase information from a manuscript or published paper into their work using our free paraphrasing tool. This helps them meet their deadlines while reducing their effort and increasing productivity.</p> <ul> <li aria-level="1"> <h3 role="presentation">Bloggers:</h3> </li> </ul> <p>Running a blogging site successfully demands appealing content in bulk that can attract the audience and make them regular visitors to your site. Creating fresh and exciting content every time is a challenging task. But, no need to worry as the rephrasing facility is here to serve you. This approach fulfils your need for original text without hiring a professional writer.&nbsp;&nbsp;</p> <ul> <li aria-level="1"> <h3 role="presentation">Freelance Writers:</h3> </li> </ul> <p>Meeting deadlines for delivering content often becomes challenging for freelance writers, especially if the assigned task is immensely technical or includes statistical data. Our advanced rephraser helps freelance or professional writers quickly create flawless, human-looking, and engaging content.</p> <h3>Rephrasing Tips &amp; Examples&nbsp;</h3> <p>The best paraphrasing tool is rephrasing someone else&rsquo;s ideas in your own words. However, the meaning and essence of the original text stay intact. You need to remember that paraphrasing is not about just replacing the words with their synonyms. It is about rewriting the content with the same context by keeping ideas and thoughts the same. It helps in avoiding plagiarism, which is an unethical activity.</p> <ul> <li aria-level="1">Use contextual synonyms</li> <li aria-level="1">Restructure sentence formation</li> <li aria-level="1">Change the order of words</li> <li aria-level="1">Change the order of sentences</li> </ul> <p><strong>Example</strong></p> <p><strong>Original: </strong>The downward growth of the American economy has led many people to live their lives in uncertainty. They are struggling to meet their end needs for survival.</p> <p><strong>Paraphrased Version:</strong> The American economy is facing serious issues, and there are no signs of growth. Yet, people are putting their efforts into making a living.</p> <h2>FAQs</h2> <ul> <li aria-level="1"> <h3 role="presentation">What is Paraphrasing?</h3> </li> </ul> <p><strong>Definition:&nbsp;</strong>Paraphrasing is restating a statement without changing the context of the text or passage by using other words.</p> <p><strong>Meaning:</strong>&nbsp;Paraphrasing is the restatement or rewording of a text or passage to expand, clarify, and summarize the content without plagiarizing. It is generally used when you rephrase online essays, research papers, and journalistic content.</p> <ul> <li aria-level="1"> <h3 role="presentation">How Many Articles Can I Paraphrase Online with This Tool for Free?</h3> </li> </ul> <p>No charges are associated with the usage of this paraphrasing tool. You can paraphrase as many articles as you desire free of cost.</p> <ul> <li aria-level="1"> <h3 role="presentation">Does Paraphrased Content Contain Grammatical Mistakes?</h3> </li> </ul> <p>No! The paraphrasing tool provides you with content that is free of grammatical mistakes. If you still want to ensure that your text contains no grammar issues, you can use our <a data-name="22-sst" href="https://smallseotools.com/grammar-checker/">grammar checker</a> for a quick review!</p> <ul> <li aria-level="1"> <h3 role="presentation">What Operating Systems Support this Paraphrase Tool Free?</h3> </li> </ul> <p>All operating systems are compatible with this paraphrasing tool online, whether you are using an iOS, Android, Mac, Windows, or Linux device.</p> <ul> <li aria-level="1"> <h3 role="presentation">For How Long My Uploaded Content is Kept in Your Databases?</h3> </li> </ul> <p>Your uploaded content is kept in databases as long as the paraphrasing process isn&rsquo;t completed. Once the process is completed, your content will be removed automatically from servers.</p> <ul> <li aria-level="1"> <h3 role="presentation">Which Browser Should I Use to Access this Paraphrasing Tool?</h3> </li> </ul> <p>This tool can be accessed through any web browser. You won&rsquo;t face any complexities.</p> <ul> <li aria-level="1"> <h3 role="presentation">Do I Need to Download or Install Any Software to my device?</h3> </li> </ul> <p>No! You don&rsquo;t have to download or install any application on your device to use this paraphrasing tool online for free.</p> <ul> <li aria-level="1"> <h3 role="presentation">Is the Paraphrased Content SEO-optimized?</h3> </li> </ul> <p>Yes! The content generated by this paraphrasing tool free is fully SEO-optimized. This tool is based on AI technology which smartly paraphrases a text based on SEO guidelines.</p> <ul> <li aria-level="1"> <h3 role="presentation">Does an Online Paraphrasing Tool Generate Unique Content?</h3> </li> </ul> <p>Yes! This rephrase tool generates unique content against your entered text. It conducts smart rephrasing and provides such content that shows no sign of duplication.</p>
+</div>
+<div id="languages_available" class="bg-white border1 mt-3 p-5 row mx-0 align-items-center">
+<span class="fw_700 clr_fff">Available in:</span>
+<a href="https://smallseotools.com/paraphrasing-tool/" class="border1 p-2 d-inline-flex align-items-center m-1 text-decoration-none text-body clr_fff">
+<span class="d-inline-block countery-icons rk-en"></span>Paraphrasing Tool
+</a>
+<a href="https://smallseotools.com/ru/paraphrasing-tool/" class="border1 p-2 d-inline-flex align-items-center m-1 text-decoration-none text-body clr_fff">
+<span class="d-inline-block countery-icons rk-ru"></span>Синонимайзер
+</a>
+<a href="https://smallseotools.com/ja/paraphrasing-tool/" class="border1 p-2 d-inline-flex align-items-center m-1 text-decoration-none text-body clr_fff">
+<span class="d-inline-block countery-icons rk-ja"></span>リライトツール
+</a>
+<a href="https://smallseotools.com/it/paraphrasing-tool/" class="border1 p-2 d-inline-flex align-items-center m-1 text-decoration-none text-body clr_fff">
+<span class="d-inline-block countery-icons rk-it"></span>Parafrasi Online
+</a>
+<a href="https://smallseotools.com/fr/paraphrasing-tool/" class="border1 p-2 d-inline-flex align-items-center m-1 text-decoration-none text-body clr_fff">
+<span class="d-inline-block countery-icons rk-fr"></span>Reformuler un texte
+</a>
+<a href="https://smallseotools.com/pt/paraphrasing-tool/" class="border1 p-2 d-inline-flex align-items-center m-1 text-decoration-none text-body clr_fff">
+<span class="d-inline-block countery-icons rk-pt"></span>REESCREVER TEXTO
+</a>
+<a href="https://smallseotools.com/es/paraphrasing-tool/" class="border1 p-2 d-inline-flex align-items-center m-1 text-decoration-none text-body clr_fff">
+<span class="d-inline-block countery-icons rk-es"></span>parafrasear textos
+</a>
+<a href="https://smallseotools.com/de/paraphrasing-tool/" class="border1 p-2 d-inline-flex align-items-center m-1 text-decoration-none text-body clr_fff">
+<span class="d-inline-block countery-icons rk-de"></span>Text Umschreiben (paraphrasieren tool)
+</a>
+<a href="https://smallseotools.com/zh/paraphrasing-tool/" class="border1 p-2 d-inline-flex align-items-center m-1 text-decoration-none text-body clr_fff">
+<span class="d-inline-block countery-icons rk-zh"></span>释义工具
+</a>
+</div>
+<div class="modal fade pp_alertmodal" id="pp_alertmodal" role="dialog">
+<div class="modal-dialog modal-dialog-centered">
+<div class="modal-content" style="border-radius:0px">
+<div class="modal-header border-bottom-0 p-2">
+<button type="button" class="crosss" data-dismiss="modal">X</button>
+</div>
+<div class="modal-body py-2 text-left">
+<img data-cfsrc="https://smallseotools.com/webimages/pro-icon-black.png" alt="image" data-cfstyle="width:110px;" style="display:none;visibility:hidden;"><noscript><img src="https://smallseotools.com/webimages/pro-icon-black.png" alt="image" style="width:110px;"></noscript>
+<p>This is free version. It does not support more then 2000 words.</p>
+<div>AI Mode</div>
+<div>Multiple Languages</div>
+<div>Unlimited characters</div>
+<div>Max 20,000 words query</div>
+<a href="https://pro.smallseotools.com/paraphrasing-pricing" class="text-decoration-none">Go Pro</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="ml-4 side_area">
+<samp class="d-block mx-auto my-2 text-center" id="s_t__sst"><div class="new___s_ sq"></div></samp>
+<div class="clearfix"></div>
+<div class="dropdown pro_pricing pricing">
+<button type="button" class="btn dropdown-toggle text-left fw_600 pro_pricing_bg d-inline-block w-100 mr-0 rounded-0" onclick="$('#pro_tabs_links').slideToggle();$('.dropdown-toggle.pro_pricing_bg').toggleClass('active')">
+<img src="https://smallseotools.com/webimages/pricing_icon.svg" alt="pricing image" width="33" height="30" class="img-fluid mr-4">Pricing </button>
+<div class="rounded-0 w-100 mt-0 py-0 bg_383b3d bg-white" style="display:none" id="pro_tabs_links">
+<a class="d-inline-flex align-items-center dropdown-item px-0 border1 border-left-0 border-right-0 border-bottom-0 px-3 clr_fff text-body" href="https://pro.smallseotools.com/pricing">
+<img src="https://smallseotools.com/webimages/pricing_diamond.svg" alt="pricing image" class="mr-2">
+<span>Plagiarism Checker Pro</span>
+</a>
+<a class="d-inline-flex align-items-center dropdown-item px-0 border1 border-left-0 border-right-0 border-bottom-0 py-2 px-3 clr_fff text-body" href="https://pro.smallseotools.com/paraphrasing-pricing">
+<img src="https://smallseotools.com/webimages/pricing_diamond.svg" alt="pricing image" class="mr-2">
+<span>Paraphraser Pro</span>
+</a>
+<a class="d-inline-flex align-items-center dropdown-item px-0 border1 border-left-0 border-right-0 border-bottom-0 py-2 px-3 clr_fff text-body" href="https://pro.smallseotools.com/ris-pricing">
+<img src="https://smallseotools.com/webimages/pricing_diamond.svg" alt="pricing image" class="mr-2">
+<span>Image Search PRO</span>
+</a>
+</div>
+</div>
+<div class="design_studio my-2">
+<a class="fw_600 cp design_studio_bg p-2 d-block text-decoration-none" href="https://designstudio.smallseotools.com/">
+<img src="https://smallseotools.com/webimages/design-studio.svg" alt="Design Studio" width="29" height="30" class="img-fluid mr-4"> Design Studio </a>
+</div>
+<div class="clearfix"></div>
+<a class="garammarly_carousal1 d-inline-block clr_fff text-dark text-decoration-none" href="https://www.grammarly.com/?utm_source=placement&q=grammar&utm_content=sst_gc_gc_btn&utm_medium=cpc&utm_term=smallseotools" target="_blank" rel="nofollow noopener" onclick="tool_trigger('Grammarly sidebar carousal')">
+<div class="d-inline-flex" style="position: relative">
+<span class="logo_crumb px-2 bg-white d-inline-flex align-items-center border1 border-bottom-0 border-right-0">
+<img data-cfsrc="https://smallseotools.com/webimages/grammarly-logo.png" alt="" style="display:none;visibility:hidden;"><noscript><img src="https://smallseotools.com/webimages/grammarly-logo.png" alt=""></noscript>
+</span>
+<div class="logo_crumb_sty"></div>
+</div>
+<div class="border1 bg-white bg_2f3133" style="border-bottom-width: 5px;">
+<div id="demo_1" class="carousel slide p-4" data-ride="carousel">
+<div class="carousel-inner text-center">
+<div class="carousel-item active">
+<div class="fw_700 gc_txt">Brilliant Writing Awaits</div>
+</div>
+<div class="carousel-item">
+<div class="fw_700 gc_txt">Great Writing, Simplified</div>
+</div>
+</div>
+<div class="d-flex justify-content-end mt-3">
+<ul class="carousel-indicators ml-3 mb-2">
+<li data-target="#demo_1" data-slide-to="0" class="rounded-circle active"></li>
+<li data-target="#demo_1" data-slide-to="1" class="rounded-circle"></li>
+</ul>
+<span class="fw_600 try_now text-white d-inline-flex align-items-center justify-content-center text-white text-decoration-none">Try Now</span>
+</div>
+</div>
+</div>
+</a>
+<div class="modal fade g_popup" id="garammarly_model">
+<div class="modal-dialog modal-dialog-centered modal-lg">
+<a rel="nofollow noopener" target="_blank" href="https://www.grammarly.com/?q=grammar&utm_source=placement&utm_medium=cpc&utm_content=sst_Popup2&utm_term=smallseotools" id="garammarly-popup" class="modal-content p-3 rounded-0 text-dark text-decoration-none">
+<div class="p-3 bg-white">
+<div>
+<img data-cfsrc="https://smallseotools.com/webimages/grammarly-logo.png" alt="popup" style="display:none;visibility:hidden;"><noscript><img src="https://smallseotools.com/webimages/grammarly-logo.png" alt="popup"></noscript>
+<button type="button" class="close text-white rounded-circle" data-dismiss="modal">&times;</button>
+</div>
+<div class="popup_bg">
+<div class="fw_600 heading text-center pt-5 mb-3 col-md-9 col-12 mx-auto">Eliminate grammar, spelling, and punctuation errors forever!</div>
+<p class="fw_600 txt text-center col-md-8 col-12 mx-auto">Grammarly helps you make sure that your writing is flawless and effective.</p>
+<div class="row mx-0 justify-content-center">
+<div class="d-flex align-items-center m-1 opt_info_hover">
+<div class="options rounded text-white d-flex align-items-center justify-content-center">Yes</div>
+<div class="opt_info fw_600 rounded ml-n1 px-3 d-flex align-items-center justify-content-center">get the FREE writing tool now</div>
+</div>
+<div class="d-flex align-items-center m-1 opt_info_hover">
+<div class="close_button_popup options rounded text-white d-flex align-items-center justify-content-center bge32020">No</div>
+<div class="close_button_popup opt_info fw_600 rounded ml-n1 px-3 d-flex align-items-center justify-content-center">I don't mind making writing errors.</div>
+</div>
+</div>
+<div class="text-center my-4">
+<img src="https://smallseotools.com/webimages/logo.svg" alt="Image of website logo" class="img-fluid">
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="popular_tools bg-white p-4 mt-1 mb-4">
+<div class="sub_headings py-2">Related Tools</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/word-counter/" class="d-inline-flex align-items-center py-2">Word Counter</a>
+</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/spell-checker/" class="d-inline-flex align-items-center py-2">Spell Checker</a>
+</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/md5-generator/" class="d-inline-flex align-items-center py-2">MD5 Generator</a>
+</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/word-combiner/" class="d-inline-flex align-items-center py-2">Word Combiner</a>
+</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/image-to-text-converter/" class="d-inline-flex align-items-center py-2">Image To Text Converter</a>
+</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/text-to-speech/" class="d-inline-flex align-items-center py-2">Text To Speech</a>
+</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/reverse-text-generator/" class="d-inline-flex align-items-center py-2">Reverse Text Generator</a>
+</div>
+</div>
+<div class="popular_tools bg-white p-4 my-4">
+<div class="sub_headings py-2">Popular Tools</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/article-rewriter/" class="d-inline-flex align-items-center py-2">Article Rewriter</a>
+</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/keyword-position/" class="d-inline-flex align-items-center py-2">Keyword Position</a>
+</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/domain-authority-checker/" class="d-inline-flex align-items-center py-2">Domain Authority Checker</a>
+</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/backlink-checker/" class="d-inline-flex align-items-center py-2">Backlink Checker</a>
+</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/image-compressor/" class="d-inline-flex align-items-center py-2">Image Compressor</a>
+</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/online-video-downloader/" class="d-inline-flex align-items-center py-2">Video Downloader</a>
+</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/facebook-video-downloader/" class="d-inline-flex align-items-center py-2">Facebook Video Downloader</a>
+</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/word-to-pdf/" class="d-inline-flex align-items-center py-2">Word To PDF</a>
+</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/rgb-to-hex/" class="d-inline-flex align-items-center py-2">RGB To Hex</a>
+</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/image-resizer/" class="d-inline-flex align-items-center py-2">Image Resizer</a>
+</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/video-to-gif/" class="d-inline-flex align-items-center py-2">Video To GIF Converter</a>
+</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/grammar-checker/" class="d-inline-flex align-items-center py-2">Free Grammar Checker</a>
+</div>
+<div class="col p-0">
+<a href="https://smallseotools.com/tiktok-video-downloader/" class="d-inline-flex align-items-center py-2">TikTok Video Downloader</a>
+</div>
+</div>
+<div class="sticky_ofset_out"></div>
+<samp class="d-block mx-auto my-2 sticky_ssb" id="s_b__sst"><div class="new___s_ sq"></div></samp>
+</div>
+
+</div>
+</div>
+
+<div class="modal plag_modal pr-0" id="feedbackModal">
+<div class="modal-dialog rounded-0">
+<div class="modal-content border-0 clr_fff bg_2f3133">
+<button type="button" class="close-fdback-form" data-dismiss="modal">&times;</button>
+<div class="rounded-0 border1 row mx-0">
+<div class="col-md-4 text-left bgf2f2f2 row mx-0 align-items-center bg_202223">
+<div class="fw_700 feel_free mt-5">Feel free to drop us your feedback.</div>
+<div class="plag_modal1 w-100"></div>
+</div>
+<div class="col-md-8 p-5 mps bg_2f3133">
+<div id="validation_errors" class="aca_feedback_validations alert alert-danger mt-3 d-none"></div>
+<div id="feedback_success" class="alert alert-success d-none"></div>
+<div id="tool_rating_save_loader" style="display:none">
+<div class="d-flex justify-content-center mb-3">
+<div class="spinner-grow spinner-grow-xl text-primary"></div>
+</div>
+</div>
+<form id="toolRating_form" action="https://smallseotools.com/save-rating" method="post" enctype="multipart/form-data">
+<input type="hidden" name="feedback_tool" id="feedback_tool1" value=https://smallseotools.com/paraphrasing-tool/>
+<input type="hidden" name="tool" id="tool1" value=4e06ca20132ef94859ce66bbf8f05a53>
+<div class="fw_600 fs18">How satisfied are you with the overall experience?</div>
+<div class="plag_feedback d-flex align-items-center justify-content-between" id="rating_smile_popup">
+<div class="user_feedback terrible" data-emotion="terrible" data-counter="1"></div>
+<div class="user_feedback bad" data-emotion="bad" data-counter="2"></div>
+<div class="user_feedback ok" data-emotion="ok" data-counter="3"></div>
+<div class="user_feedback good" data-emotion="good" data-counter="4"></div>
+<div class="user_feedback amazing" data-emotion="amazing" data-counter="5"></div>
+<input type="hidden" value="good" name="feedback_emotion" id="feedback_emotion">
+</div>
+<div class="d-flex align-items-center justify-content-center modal_rating mb-3">
+<div class="rating_no rounded-circle d-flex align-items-center justify-content-center fw_700 text-white mr-1 ml-2 avg_rating_score">4.5</div>
+<div id="rating_stars">
+<div class="rating-group d-inline-flex">
+<i class="rating_icon" data-emotion="terrible" data-counter="1"></i>
+<i class="rating_icon" data-emotion="bad" data-counter="2"></i>
+<i class="rating_icon" data-emotion="ok" data-counter="3"></i>
+<i class="rating_icon" data-emotion="good" data-counter="4" data-active="active"></i>
+<i class="rating_icon" data-emotion="amazing" data-counter="5"></i>
+</div>
+<input type="hidden" name="star_rating" id="star_rating">
+</div>
+<div class="fw_600 text-left fs12 mr-2 mw73 d-none"><span class="tool_total_reviews">1</span> reviews</div>
+</div>
+<button class="d-none g-recaptcha" name="feedback_rating" data-sitekey="6Lc2k8UZAAAAAFoaFQLbl6jIUpt4zAoO7ppG2lpN" data-callback="dataCallbackgRecapchaRating" id="feedback_recaptcha_rating" type="button"></button>
+</form>
+<form id="feedback_form" action="https://smallseotools.com/send-feedback" method="post" enctype="multipart/form-data">
+<input type="hidden" name="feedback_tool" id="feedback_tool" value=https://smallseotools.com/paraphrasing-tool/>
+<input type="hidden" name="tool" id="tool" value=4e06ca20132ef94859ce66bbf8f05a53>
+<div class="row mx-0 text-left">
+<div class="col-md-6 mb-2 px-2" id="fdback_email">
+<div class="tool_heading mb-2">Contact Email</div>
+<input type="email" required name="user_email" id="user_email" placeholder="abc@xyz.com" class="form-control tool_inp_sty rounded-0 bg_383b3d">
+</div>
+<div class="col-md-6 mb-2 px-2">
+<div class="tool_heading mb-2">Subject</div>
+<input type="text" required name="feedback_subject" id="feedback_subject" placeholder="Feedback about tool" class="form-control tool_inp_sty rounded-0 bg_383b3d">
+</div>
+<div class="col-md-12 px-2">
+<div class="tool_heading mb-2">What are the main reasons for your rating?</div>
+<textarea name="feedback_message" required id="feedback_message" class="d-flex ar_txtarea p-3 cus_scrollbar border1 w-100 mb-2 bg_383b3d fw_700" onpaste="wordCounter()" onKeyup="wordCounter()" placeholder="Description"></textarea>
+<div class="d-flex justify-content-between limit_count my-2">
+<div>Limit 300 Words</div>
+<div>Words count <span id="count_words">0</span></div>
+</div>
+<label class="d-flex align-items-center justify-content-center cp bg_f6f8fa p-2 border1 bg_383b3d" for="feedback_screenShoot">
+<img src="https://smallseotools.com/webimages/plag_screenshot.svg" alt="image of url link" class="img-fluid mr-1">
+<input class="d-none" id="feedback_screenShoot" accept="image/png,image/jpeg" name="feedback_screenShoot" type="file">
+<span class="text-body clr_fff" id="feedback_ss_name">Upload Screenshot</span>
+</label>
+<div class="d-flex justify-content-center align-items-center mb-1">
+<div class="g-recaptcha d-inline-block" data-sitekey="6LfGQ-EZAAAAAN7nhtxwfS6NkPPFwxGdiBfmwzLf"></div><br>
+</div>
+<button type="submit" id='btn_sendFeedback' class="tool_btn px-3 text-white border-0 w-100">Send Feedback</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="sticky_stop"></div>
+<div class="as_seen bg-white row mx-0 justify-content-center py-4 px-2 border1 border-left-0 border-right-0">
+<h3 class="fw_600 w-100 text-center mb-3 clr_fff">AS SEEN ON:</h3>
+<div id="demo" class="carousel slide in_as_seen px-5" data-ride="carousel">
+
+<div class="carousel-inner">
+<div class="carousel-item active">
+<div class="row mx-0">
+<a class="col mx-2 d-flex justify-content-center p-2 border1">
+<div class="seen_slider" data-rklazy='{"name":"seens_img1","type":"background"}'></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy='{"name":"seens_img2","type":"background"}'></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy='{"name":"seens_img4","type":"background"}'></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy='{"name":"seens_img5","type":"background"}'></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy='{"name":"seens_img7","type":"background"}'></div>
+</a>
+</div>
+</div>
+<div class="carousel-item">
+<div class="row mx-0">
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy='{"name":"seens_img8","type":"background"}'></div>
+ </a>
+ <a class="col mx-2 d-flex justify-content-center p-2 border1">
+<div class="seen_slider" data-rklazy='{"name":"seens_img9","type":"background"}'></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy='{"name":"seens_img10","type":"background"}'></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy='{"name":"seens_img11","type":"background"}'></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy='{"name":"seens_img12","type":"background"}'></div>
+</a>
+</div>
+</div>
+<div class="carousel-item">
+<div class="row mx-0">
+<a href="https://semrush.sjv.io/4e3XLL" target="_blank" rel="noopener" title="semrush" class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy='{"name":"seens_img13","type":"background"}'></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1">
+<div class="seen_slider" data-rklazy='{"name":"seens_img1","type":"background"}'></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy='{"name":"seens_img2","type":"background"}'></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy='{"name":"seens_img4","type":"background"}'></div>
+</a>
+<a class="col mx-2 d-flex justify-content-center p-2 border1 asseen_mdn">
+<div class="seen_slider" data-rklazy='{"name":"seens_img5","type":"background"}'></div>
+</a>
+</div>
+</div>
+</div>
+
+<a class="carousel-control-prev rounded-circle" href="#demo" data-slide="prev">
+<span data-rklazy='{"fullpath":"https://smallseotools.com/webimages/chevron_left.svg","type":"img","alt":"image left","class":"img-fluid"}'></span>
+</a>
+<a class="carousel-control-next rounded-circle" href="#demo" data-slide="next">
+<span data-rklazy='{"fullpath":"https://smallseotools.com/webimages/chevron_right.svg","type":"img","alt":"image right","class":"img-fluid"}'></span>
+</a>
+</div>
+</div>
+<div class="main_fpt px-4 pt-4 pb-3 mps bg_f6f8fa row mx-0 justify-content-center">
+<div class="sub_area">
+<div class="col-12 px-0 py-3 row mx-0 text-center text-break clr_fff">
+<div class="col-md-3">
+<div class="d-inline-block text-left">
+<a href="https://smallseotools.com/">
+<img src="https://smallseotools.com/webimages/logo.svg" alt="Image of website logo" class="img-fluid logo_img" width="200" height="31">
+</a>
+<p class="fw_700 fs22 mt-3 mb-0">Languages</p>
+<div class="cus_nav w-100">
+<div class="dropdown lang_btn d-inline-flex align-items-center fw_600 bg_fff bg_383b3d p-0">
+<button type="button" class="btn dropdown-toggle clr_fff p-0 border-0 px-2 h-100" data-toggle="dropdown" id="chev_toggle">
+<img src="https://smallseotools.com/webimages/global_lang.svg" alt="image of languages">
+English
+<span class="d-inline-block up_chev" id="toggle_it"></span>
+</button>
+<div class="dropdown-menu rounded-0 px-4 lang_drop">
+<div class="row">
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 active_lang" href="https://smallseotools.com/paraphrasing-tool/">
+<span class="countery-icons rk-en"></span>English - EN
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/ru/paraphrasing-tool/">
+<span class="countery-icons rk-ru"></span>русский - RU
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/ja/paraphrasing-tool/">
+<span class="countery-icons rk-ja"></span>日本語 - JA
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/it/paraphrasing-tool/">
+<span class="countery-icons rk-it"></span>Italiano - IT
+</a>
+  <div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/fr/paraphrasing-tool/">
+<span class="countery-icons rk-fr"></span>Français - FR
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/pt/paraphrasing-tool/">
+<span class="countery-icons rk-pt"></span>Português - PT
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/es/paraphrasing-tool/">
+<span class="countery-icons rk-es"></span>Español - ES
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+<a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/de/paraphrasing-tool/">
+<span class="countery-icons rk-de"></span>Deutsche - DE
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+<div class="col-6">
+ <a class="d-flex align-items-center dropdown-item px-0 " href="https://smallseotools.com/zh/paraphrasing-tool/">
+<span class="countery-icons rk-zh"></span>中文 - ZH
+</a>
+<div class="dropdown-divider my-1"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fw_700 fs22 mt-3">Contact Us</div>
+<div><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="5c2f292c2c332e281c2f313d30302f3933283333302f723f3331">[email&#160;protected]</a></div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="d-inline-block text-left">
+<div class="fw_700 fs22">Address</div>
+<div>438, Streatham High Road<br>London, UK.<br>SW16 3PX</div>
+</div>
+</div>
+<div class="col-md-3">
+<div class="d-inline-block text-left">
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/term-of-services/">Terms of Services</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/testimonials/">Testimonials</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/contact-us/">Contact Us</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/about-us/">About us</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/advertise/">Advertise</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/privacy/">Privacy</a>
+</div>
+</div>
+<div class="col-md-3">
+<div class="d-inline-block text-left">
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/refund-policy/">Refund Policy</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/blog/">Blog</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/faqs/">FAQs</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://pro.smallseotools.com/pricing">Pricing</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://designstudio.smallseotools.com/">Design Studio</a>
+<a class="footer_links clr_fff d-block mb-1" href="https://smallseotools.com/sitemap.html">Sitemap</a>
+</div>
+</div>
+</div>
+<div class="row mx-0">
+<div class="col-md-6 p-2">
+<div class="p-4 text-center row mx-0 align-content-center justify-content-center border1 bg-white mps bg_2f3133">
+<div class="sub_headings">You May Like Our Most Popular Tools & Apps</div>
+<div class="d-flex justify-content-center fpop_tools mt-3 mb-4">
+<a href="https://smallseotools.com/plagiarism-checker-api/" class="d-inline-flex align-items-center justify-content-center rounded-circle mx-1">
+<span class="d-block" data-rklazy='{"name":"f_api","type":"background"}'></span>
+</a>
+<a href="https://smallseotools.com/wordpress-plagiarism-checker/" class="d-inline-flex align-items-center justify-content-center rounded-circle mx-1">
+<span class="d-block" data-rklazy='{"name":"f_wordpress","type":"background"}'></span>
+</a>
+</div>
+</div>
+</div>
+<div class="col-md-6 p-2">
+<div class="pt-4 pb-3 px-4 text-center border1 bg-white mps bg_2f3133">
+<div class="sub_headings">Subscribe to our Newsletter & Stay updated</div>
+<div class="input-group mb-3 subs_inp bg_f6f8fa p-1 bg_202223">
+<input type="email" name="email" placeholder="Enter your email address" class="form-control rounded-0 border-0 bg_f6f8fa bg_202223 h-100">
+<div class="input-group-append">
+
+<button type="submit" class="btn subs_button text-white rounded-0"><span data-rklazy='{"fullpath":"https://smallseotools.com/webimages/subscribe_btn.svg","type":"img","alt":"image right","class":"img-fluid mr-1"}'></span>Subscribe</button>
+</div>
+</div>
+<div class="social_box">
+<a href="https://www.facebook.com/smallseotools" target="_blank" class="d-inline-block mx-1" data-rklazy='{"name":"sub_facebook","type":"background"}'></a>
+<a href="https://twitter.com/smallseotools1" target="_blank" class="d-inline-block mx-1" data-rklazy='{"name":"sub_twitter","type":"background"}'></a>
+<a href="https://www.linkedin.com/company/content-arcade/" target="_blank" class="d-inline-block mx-1" data-rklazy='{"name":"sub_linkedin","type":"background"}'></a>
+<a href="https://www.youtube.com/channel/UCuqHvzAavqmyVlolYO1SXMQ" target="_blank" class="d-inline-block mx-1" data-rklazy='{"name":"sub_youtube","type":"background"}'></a>
+<a href="https://www.reddit.com/user/SmallSEOToolscom1" target="_blank" class="d-inline-block mx-1" data-rklazy='{"name":"sub_reddit","type":"background"}'></a>
+<a href="https://www.pinterest.co.uk/smallseotools7/" target="_blank" class="d-inline-block mx-1" data-rklazy='{"name":"sub_pinterest","type":"background"}'></a>
+<a href="https://www.instagram.com/smallseotools.com3/" target="_blank" class="d-inline-block mx-1" data-rklazy='{"name":"sub_instagram","type":"background"}'></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p class="text-center footer_links clr_fff m-0 mt-2 w-100">Copyright © 2012-2023 by <a href="https://smallseotools.com/" class="footer_links clr_fff">SmallSEOTools.com</a> All Rights Reserved.</p>
+</div>
+<div class="for_footer_ad">
+</div> <div class="o-zergnet px303 b"></div>
+<span class="b"></span>
+<div class="scroll_top border1 bg-white rounded-circle bg_2f3133"></div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+		var base_url='https://smallseotools.com/';
+		var Processing='Processing...';
+		var Uploading='Uploading...';
+		var Downloading='Downloading...';
+		var Detecting='Detecting...';
+		var Searching='Searching...';
+		var Converting='Converting...';
+		var Checking='Checking...';
+		var Finalizing='Finalizing...';
+	</script>
+<script src="https://smallseotools.com/js/app.js"></script>
+<script src="https://smallseotools.com/js/myscript.js?v=1677389351"></script>
+<script src="https://smallseotools.com/js/feedback.js"></script>
+<script>
+		$('#garammarly-popup').click(function(e){
+			if(e.target !== e.currentTarget){
+				if($(e.target).is('.close_button_popup')){
+					$('#garammarly_model').modal('hide');
+					e.preventDefault();
+				}else{
+					tool_trigger('Grammarly Popup Desktop');
+				}
+			}		
+		});
+		var _0x4a24=["\x6E\x6F\x77"];function RoshuTimer(_0x48a3x2,_0x48a3x3){const _0x48a3x4=Date[_0x4a24[0]]();(function _0x48a3x5(){if(_0x48a3x4+ _0x48a3x3<= Date[_0x4a24[0]]()){_0x48a3x2()}else {requestAnimationFrame(_0x48a3x5)}})()}
+		$.fn.bttooltip = $.fn.tooltip;
+		$(document).ready(function(){
+			// scroll_top
+			var scroll_top = $(".scroll_top");
+			$(window).scroll(function() {
+				var topPos = $(this).scrollTop();
+				if (topPos > 400) {
+					$(scroll_top).css("opacity", "1");
+				} else {
+					$(scroll_top).css("opacity", "0");
+				}
+			});
+			$(scroll_top).click(function() {
+				$('html, body').animate({
+					scrollTop: 0
+				}, 800);
+				return false;
+			});
+			if(typeof lazy_load_a !='undefined'){
+				lazy_load_a();
+			}
+			
+			$('[captcha-load]').parent().append('<span class="hide_click"></span>');
+			$('.hide_click').css('width',$('[captcha-load]').width()+32+'px');
+			
+
+			
+			;
+		});
+		var one_time_mouse_move=true;
+		function on_mouse_move(){
+			if(one_time_mouse_move){
+				one_time_mouse_move=false;
+				if(typeof tool_mouse_move_function != 'undefined'){
+					tool_mouse_move_function();
+				}
+				
+									var html = "<script src='https://www.google.com/recaptcha/api.js?hl=en'><\/script>";
+					$("head").append(html);
+									// append google tag manager
+				$("head").append('<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({\'gtm.start\':new Date().getTime(),event:\'gtm.js\'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!=\'dataLayer\'?\'&l=\'+l:\'\';j.async=true;j.src=\'https://www.googletagmanager.com/gtm.js?id=\'+i+dl;f.parentNode.insertBefore(j,f);})(window,document,\'script\',\'dataLayer\',\'GTM-NX2MHLX\');<\/script>');
+				check_captcha_load();
+			}
+		}
+		// window.addEventListener("load", function(){
+		setTimeout(() => {
+			window.addEventListener("mousedown",on_mouse_move);
+			window.addEventListener("mousemove",on_mouse_move);
+			window.addEventListener("mouseup",on_mouse_move);
+			window.addEventListener("touchstart",on_mouse_move);
+			window.addEventListener("keydown",on_mouse_move);
+		}, 1000);
+		// });
+		function check_captcha_load(){
+			var text=$('[captcha-load]').attr('captcha-load');
+			if(typeof text != 'undefined'){
+				$('[captcha-load]').attr('value',text);
+				$('[captcha-load]').text(text);
+				$('.hide_click').remove();
+			}
+		}
+		function captcha_submit(){
+			setCookie('submission','done',1);
+			$('#check_value').val('test');
+			$('[captcha-load]').parents('form:first').submit();
+		} 
+		 
+
+		
+		// jQuery(document).keydown(function(event) {
+		// 	if(
+		// 		(
+		// 			(event.ctrlKey || event.metaKey) && (event.which == 83 || event.which == 67 || event.which == 85 || event.which == 86 || event.which == 117)
+		// 			|| 
+		// 			(event.which == 123)
+		// 			||
+		// 			(event.shiftKey || event.which == 17)
+		// 		)
+		// 		) {
+		// 		event.preventDefault();
+		// 		return false;
+		// 	}
+		// });
+		// document.oncontextmenu = document.body.oncontextmenu = function() {return false;}
+		
+
+		
+														$('head').append("<script data-cfasync=\"false\">(function(w, d) {var s = d.createElement('script');s.src = '//cdn.adpushup.com/41163/adpushup.js';s.crossOrigin='anonymous';s.type = 'text/javascript'; s.async = true;(d.getElementsByTagName('head')[0] || d.getElementsByTagName('body')[0]).appendChild(s);w.adpushup = w.adpushup || {que:[]};})(window, document);<\/script>");
+																		$('head').append('<script>var ezstandalone = ezstandalone || {};ezstandalone.cmd = ezstandalone.cmd || [];ezstandalone.cmd.push(function() {ezstandalone.define(101);ezstandalone.enable();ezstandalone.display();});<\/script><script src="//www.ezojs.com/ezoic/sa.min.js"><\/script>');
+																$(window).on('load',function(){
+						setTimeout(function(){
+							document.querySelector("body").addEventListener("mouseleave", function(e){
+								if($('.fc-consent-root').length == 0){
+									e = e ? e : window.event;
+									var t = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
+									if (!(e.clientX >= t - 50 || e.clientY >= 50)){
+										FITS.setVariable({cookie:'RK-Grammarly'})
+										if(!FITS.getcookie({cookie:'RK-Grammarly'})){
+											FITS.setcookie({cookie:'RK-Grammarly'});
+											$('#garammarly_model').modal()
+										}
+									}
+								}
+							});
+							// FITS.Config({anchorAttr:{'title':'grammarly'},cookie:'RK-Grammarly'});
+						},5000)
+					})
+					var get_id_identifier='';
+										$('[id="b_b__sst"]').append('<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2684854501397994" crossorigin="anonymous"><\/script><!-- 728-90-BB-SST-Desktop-ND --><ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-2684854501397994" data-ad-slot="4798229015"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});<\/script>');
+					function lazy_load_a(){
+						get_id_identifier='id="b_t__sst"';
+						get_id_identifier=get_id_identifier.split('__');
+						get_id_identifier_last_value=get_id_identifier[1].replace('"','');
+						get_id_identifier_name=get_id_identifier[0].split('=')[0];
+						$('['+get_id_identifier_name+'*="'+get_id_identifier_last_value+'"]').each(function(){ 
+							var main_selector=get_id_identifier_name+'="'+$(this).attr(get_id_identifier_name)+'"';
+							if(main_selector == 'id="a_b__sst"'){
+								check_view_port=350;
+							}else{
+								check_view_port=50;
+							}
+							var scrollTop = window.pageYOffset;
+							var this_offset=$(this).offset().top + $(this).outerHeight();
+							var window_offset=$(window).scrollTop()+ $(window).height();
+							if($(this).offset().top + $(this).outerHeight() -check_view_port <= ($(window).scrollTop()+ $(window).height())){
+								if(main_selector == 'id="b_t__sst"'){
+									$('[id="b_t__sst"] .new___s_.ba').remove();
+								}
+								if(main_selector != 'id="s_b__sst"' && main_selector != 'id="b_t__sst"'){
+									var a_path=$(this).addClass('px'+($(this).height()+5));
+									$(this).removeClass('mx-auto').addClass('m-auto').attr('style','margin:10px 0px !important');
+									// $(this).replaceWith('<span>' + $(this).html() +'</span>');
+									// $(this).html('');
+									// // var a_path=$(this).css('height',$(this).height()+1+'px');
+								}
+								if(main_selector == 'id="top__sst"'){
+									$('[id="top__sst"]').append('<div id="b463f96a-085b-4958-bc1c-a647834d09bf" class="_ap_apex_ad"><script>var adpushup = window.adpushup = window.adpushup || {};adpushup.que = adpushup.que || [];adpushup.que.push(function() {adpushup.triggerAd("b463f96a-085b-4958-bc1c-a647834d09bf");});<\/script></div>');
+								}else if(main_selector == 'id="b_t__sst"' && 1==2){
+									$('[id="b_t__sst"]').append('');
+								}else if(main_selector == 'id="a_t__sst"'){
+																			$('[id="a_t__sst"]').append('<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2684854501397994" crossorigin="anonymous"><\/script><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2684854501397994" data-ad-slot="3727114131"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});<\/script>');
+																	}else if(main_selector == 'id="b_b__sst"'){
+									// $('[id="b_b__sst"]').append('<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2684854501397994" crossorigin="anonymous"><\/script><!-- 728-90-BB-SST-Desktop-ND --><ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-2684854501397994" data-ad-slot="4798229015"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});<\/script>');
+								}else if(main_selector == 'id="a_b__sst"'){
+									$('[id="a_b__sst"]').append('<div id="f65dc41a-305c-4416-98de-fe34dbecc2b4" class="_ap_apex_ad" max-height="360"><script>var adpushup = window.adpushup = window.adpushup || {};adpushup.que = adpushup.que || [];adpushup.que.push(function() {adpushup.triggerAd("f65dc41a-305c-4416-98de-fe34dbecc2b4");});<\/script></div>');
+																			// $('[id="a_b__sst"]').append('<div class="col-md-12 row m-0"><div class="col-md-6"><div id="f65dc41a-305c-4416-98de-fe34dbecc2b4" class="_ap_apex_ad" max-height="360"><script>var adpushup = window.adpushup = window.adpushup || {};adpushup.que = adpushup.que || [];adpushup.que.push(function() {adpushup.triggerAd("f65dc41a-305c-4416-98de-fe34dbecc2b4");});<\/script></div></div><div class="col-md-6"><div id="e084df06-1aa9-4e01-8945-07f1d257d53b" class="_ap_apex_ad"><script>var adpushup = window.adpushup = window.adpushup || {};adpushup.que = adpushup.que || [];adpushup.que.push(function() {adpushup.triggerAd("e084df06-1aa9-4e01-8945-07f1d257d53b");});<\/script></div></div></div>');
+																	}else if(main_selector == 'id="s_t__sst"'){
+																			$('[id="s_t__sst"]').append('<div class="mb-3"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2684854501397994" crossorigin="anonymous"><\/script><!-- 300-250-S1-SST-Desktop-ND --><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2684854501397994" data-ad-slot="6602265272"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});<\/script></div>');
+																	}else if(main_selector == 'id="s_m__sst"' && 1==2){
+									$('[id="s_m__sst"]').append('<div id="ezoic-pub-ad-placeholder-101"> </div>');
+								}else if(main_selector == 'id="s_b__sst"'){
+																			$('[id="s_b__sst"]').append('<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2684854501397994" crossorigin="anonymous"><\/script> <ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-2684854501397994" data-ad-slot="4284413684"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});<\/script>');
+																	}
+								$(this).attr('data-alter',$(this).attr(get_id_identifier_name).split('__')[0]);
+								$(this).removeAttr(get_id_identifier_name);
+							}
+						});
+					}
+					$(window).on('resize scroll', function(){
+						lazy_load_a();
+					});
+					$(window).on('load',function(){
+						lazy_load_a();
+													const ady_code_swipe_count = setInterval(ady_code_swipe, 2200);
+							const ady_code={
+								'a_t':`<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2684854501397994" crossorigin="anonymous"><\/script><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2684854501397994" data-ad-slot="4770211416"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});<\/script>`,
+								'b_b':'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2684854501397994" crossorigin="anonymous"><\/script> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-2684854501397994" data-ad-slot="1952476386"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});<\/script>',
+								'a_b':'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2684854501397994" crossorigin="anonymous"><\/script> <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2684854501397994" data-ad-slot="3282418661"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({});<\/script>',
+								's_t':'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2684854501397994" crossorigin="anonymous"><\/script> <ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-2684854501397994" data-ad-slot="2882414672"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});<\/script>',
+								's_b':'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2684854501397994" crossorigin="anonymous"><\/script> <ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-2684854501397994" data-ad-slot="9064679649"></ins> <script>(adsbygoogle = window.adsbygoogle || []).push({});<\/script>'
+							};
+							var ady_counter = 0;
+							function ady_code_swipe() {
+								++ady_counter;
+								$('[data-alter] ins[data-ad-status="unfilled"]').each(function(){
+									var ady_pos=$(this).parents('[data-alter]').data('alter');
+									$(this).parents('[data-alter]').find('.new___s_').nextAll().remove();
+									if(typeof ady_code[ady_pos] != 'undefined'){
+										$(`[data-alter="${ady_pos}"]`).append(`${ady_code[ady_pos]}`);
+									}
+								});
+								if(ady_counter > 3){
+									clearInterval(ady_code_swipe_count);
+								}
+							}
+												$('.hide_click').remove();
+						// RoshuTimer(ads_function,1500);
+					});
+								// function ads_function(){
+				// 	adblock2F=find2__='';
+				// 	var img = new Image();
+				// 	img.src = 'https://smallseotools.com/imgs/ads/love_you_son.jpg';
+				// 	img.onload = function(){
+				// 		adblock2F=false;
+				// 	};
+				// 	img.onerror = function(){
+				// 		adblock2F=true;
+				// 		run_grammarly();
+				// 	};
+				// 	if($('ins.adsbygoogle').is(':visible')){
+	
+				// 	}else{
+				// 		find2__=true;
+				// 		run_grammarly();
+				// 	}
+				// }
+				var rk_starts=true;
+				function run_grammarly(){
+											if(rk_starts){
+							rk_starts=false;
+							var count_g=1;
+							$(".new___s_").each(function(){
+								var img_html='';
+								var second_class_name=$(this).attr('class').split(' ')[1];
+								var par=$(this).parent();
+								if (second_class_name == 'bq'){
+									if($(par).attr('id') == 'b_b__sst' || $(par).attr('id') == 'top__sst'){
+										img_html=`<div class="d-flex justify-content-center mb-2">
+																																		<a onclick="tool_trigger('Grammarly top new')" href="https://www.grammarly.com/?q=grammar&utm_source=placement&utm_medium=cpc&utm_content=72890_1&utm_term=smallseotools" target="_blank" rel="nofollow noopener" class="border1 bg-white text-body text-decoration-none row mx-0 align-items-center garammarly_baner pr-2 justify-content-between">
+													<span class="logo_crumb px-2 d-inline-flex align-items-center justify-content-center">
+														<img src="https://smallseotools.com/webimages/grammarly-logo.png" alt="grammarly logo">
+													</span>
+													<span class="fw_600 gb_txt p-2"><img src="https://smallseotools.com/webimages/gb_tick.svg" class="mr-1">Tone suggestions</span>
+													<span class="fw_600 gb_txt p-2"><img src="https://smallseotools.com/webimages/gb_tick.svg" class="mr-1">Full-sentence rewrites</span>
+													<span class="fw_600 try_now text-white d-inline-flex align-items-center justify-content-center">Try Now</span>
+												</a>
+																					</div>`;
+									}
+								}else if(second_class_name == 'sq'){
+									if($(par).attr('id') != 's_t__sst'){
+										var left_gr='-83px';
+										if($(par).attr('id') == 's_b__sst'){
+											left_gr='0px';
+										}
+										img_html=`<a href="https://www.grammarly.com/?utm_source=placement&q=grammar&utm_content=sst_gc_gc_btn&utm_medium=cpc&utm_term=smallseotools" target="_blank" rel="nofollow noopener" onclick="tool_trigger('Grammarly sidebar carousal')" class="garammarly_carousal1 d-inline-block clr_fff text-dark text-decoration-none">
+											<div class="d-inline-flex" style="position:relative;left:${left_gr};top:2px;">
+												<span class="logo_crumb px-2 bg-white d-inline-flex align-items-center border1 border-bottom-0 border-right-0">
+													<img src="https://smallseotools.com/webimages/grammarly-logo.png" alt="">
+												</span>
+												<div class="logo_crumb_sty"></div>
+											</div>
+											<div class="border1 bg-white bg_2f3133" style="border-bottom-width: 5px;">
+												<div id="demo${count_g}" class="carousel slide p-4" data-ride="carousel">
+													<div class="carousel-inner text-center">
+														<div class="carousel-item active">
+															<div class="fw_700 gc_txt">Brilliant Writing Awaits</div>
+														</div>
+														<div class="carousel-item">
+															<div class="fw_700 gc_txt">Great Writing, Simplified</div>   
+														</div>
+													</div>
+													<div class="d-flex justify-content-end mt-3">
+														<ul class="carousel-indicators ml-3 mb-2">
+															<li data-target="#demo${count_g}" data-slide-to="0" class="rounded-circle active"></li>
+															<li data-target="#demo${count_g}" data-slide-to="1" class="rounded-circle"></li>
+														</ul>
+														<span class="fw_600 try_now text-white d-inline-flex align-items-center justify-content-center text-white text-decoration-none">Try Now</span>
+													</div>
+												</div>
+											</div>
+										</a>`;
+									}
+								}
+								count_g++;
+								$(this).html(img_html);
+							});
+							setTimeout(function(){
+								$(".adsbygoogle").each(function(){$(this).attr('style','display:none!important')});
+								tool_trigger('Show Grammarly');
+							},500);
+						}else{
+							$(".adsbygoogle").each(function(){$(this).attr('style','display:none!important')});
+						}
+									}
+				fetch('https://www.gstatic.com/firebasejs/9.6.10/firebase-app.js')
+				.catch(() => run_grammarly());
+				fetch('https://www.gstatic.com/firebasejs/9.6.10/firebase-messaging.js')
+				.catch(() => run_grammarly());
+				fetch('https://cdn.adpushup.com/41163/adpushup.js')
+				.catch(() => run_grammarly());
+				fetch('https://smallseotools.com/webimages/process.gif')
+				.catch(() => run_grammarly());
+				fetch('https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2684854501397994')
+				.catch(() => run_grammarly());
+				fetch('https://delivery.adrecover.com/allow.jpg')
+				.catch(() => run_grammarly());
+				var img_grammayly= new Image();
+				img_grammayly.src = 'https://delivery.adrecover.com/allow.jpg';
+				img_grammayly.onload = function(){
+				};
+				img_grammayly.onerror = function(){
+					run_grammarly();
+				};
+				$(window).on('load',function(){
+					if($('.o-zergnet,.px303,.b').css('display') == 'none'){
+						run_grammarly();
+					}
+				});
+				function fixd_st(){
+					if($('.sticky_ssb').length != 0){
+						var win_height=$(window).scrollTop();
+						var st_ofset_in=$('.sticky_ssb').offset().top;
+						var st_ofset_out=$('.sticky_ofset_out').offset().top;
+						if(win_height >= st_ofset_in){
+							$('.sticky_ssb').css('position','fixed');
+							$('.sticky_ssb').css('top','45px'); 
+						}
+						if(win_height <= st_ofset_out){
+							$('.sticky_ssb').css('position','');
+							$('.sticky_ssb').css('top','');
+						}
+						if($('.sticky_ssb').offset().top + $(".sticky_ssb").height()-100 > $(".main_area").height()){
+							$('.sticky_ssb').css('top',-($(".sticky_ssb").offset().top + $(".sticky_ssb").height() - $(".sticky_stop").offset().top)-50);
+						}
+					}
+				}
+				$(window).scroll(function (){
+					fixd_st();
+					if($('.o-zergnet,.px303,.b').css('display') == 'none'){
+						run_grammarly();
+					}
+				});
+							// copy text, value and html function start
+		function CopyText(ev,selector,selector_type) {
+			window.Clipboard = (function(window, document, navigator) {
+				var textArea,
+				copy;
+				function isOS() {
+					return navigator.userAgent.match(/ipad|iphone/i);
+				}
+				function createTextArea(text) {
+					textArea = document.createElement('textArea');
+					textArea.value = text;
+					document.body.appendChild(textArea);
+				}
+				function selectText() {
+					var range,
+						selection;
+					if (isOS()) {
+						range = document.createRange();
+						range.selectNodeContents(textArea);
+						selection = window.getSelection();
+						selection.removeAllRanges();
+						selection.addRange(range);
+						textArea.setSelectionRange(0, 999999);
+					} else {
+						textArea.select();
+					}
+				}
+				function copyToClipboard() {
+					document.execCommand('copy');
+					document.body.removeChild(textArea);
+				}
+				copy = function(text) {
+					createTextArea(text);
+					selectText();
+					copyToClipboard();
+				};
+				return {
+					copy: copy
+				};
+			})
+			(window, document, navigator);
+			var copy_store='';
+			var copy_length=3;
+			if (selector_type == 'value' || selector_type == 'shortvalue') {
+				copy_store=$('#'+selector).val();
+			}else if (selector_type == 'text' || selector_type == 'shorttext'){
+				copy_store=$('#'+selector).text();
+			}else if (selector_type == 'html'){
+				copy_store=$('#'+selector).html();
+			}else if (selector_type == 'html_without_br'){
+				copy_store=remove_tags($('#'+selector).html());
+			}
+			if(selector_type == 'shorttext' || selector_type == 'shortvalue'){
+				copy_length=1;
+			}
+			if (copy_store == '') {
+				hideTooltip(ev);
+				show_messages('Error', 'No content found to copy');
+			}else if(copy_store.length < copy_length){
+				show_messages('Error', 'Text too short for copy');
+			}else{
+				Clipboard.copy(copy_store);
+				selectText(selector);
+				setTooltip(ev,'Copied!');
+				hideTooltip(ev);
+			}
+		}
+		// copy text, value and html function start
+		
+		// $(window).on('load',function(){
+		// 	$('a').each(function(k,v){
+		// 		var old_link=$(this).attr('href');
+		// 		var new_link=old_link.replace('https://smallseotools.com/','http://127.0.0.1:8000/');
+		// 		$(this).attr('href',new_link);
+		// 	});
+		// });
+		$('.cb-enable').click(function(e){
+			setCookie('cb-enabled', 'enabled',7*24*60);
+			$('#cookie-bar').hide();
+			// return false;
+			// e.preeventDefault();
+		})
+		$('#feebackBtn').click(function(){
+			$('#feeback-icon').click();
+		})
+		// dataLayer = [];
+		function tool_trigger(value){
+			dataLayer.push({'event': 'KeywordPosition','KeywordPositionValue': value});
+		}
+	</script>
+<script type="module" src="https://smallseotools.com/js/fcm-notifications.js"></script>
+<script>
+			$('#lang_drop_textarea_modes .item_box').click(function(){
+		var _id=$(this).find('span').attr('id');
+		if(_id != 'smart_spin'){
+			$('#pp_alertmodal').modal('show');
+			$('#pp_alertmodal p').text('This is free version. It does not support this mode');
+		}
+	})
+	$('#lang_drop_textarea a').click(function(){
+		var text=$(this).text();
+		$('#lang_text_change').text(text);
+		$('#tool_lang').val($(this).data('lang'));
+	})
+	var synth = window.speechSynthesis;
+	synth.cancel();
+	// hide function for social box
+	function upload_section_hide(f){
+		if($('#textbox').val().length == 0){
+			$('.upload_option').slideUp(400);
+			$('.step_1').addClass('active');
+			$('#clear_icon_con').show();
+			if(f){
+				$('#textbox').focus();
+			}
+		}
+	}
+	//show function for social box
+	function upload_section_show(){
+		if($('#textbox').val().length == 0){
+			$('.upload_option').slideDown(400);
+			$('.step_1,.step_2,.step_3').removeClass('active');
+			$('#clear_icon_con').hide();
+		}
+	}
+	$('#clear_icon_con').click(function(){
+		upload_section_show();
+	})
+	//textarea focusout for social box
+	$('#textbox').focusout(function(){
+		// $('.input_section').css('border-color','#eee');
+		upload_section_show();
+	});
+	//textarea focus for social box
+	$('#textbox').focus(function(e){
+		e.stopPropagation();
+		upload_section_hide(false);
+	});
+	//social box trigger only
+	$('.upload_option').click(function(e){
+		if(e.target !== e.currentTarget){
+			if($(e.target).is('.d1,.d2,.d3,.d4')){
+				upload_section_hide(true);
+				return;
+			}
+		}
+	});
+	//Count Number of word inside text box
+	function count(){
+		setTimeout(function(){ 
+			var val = $.trim($('#textbox').val());
+			chars = val.length;
+			if(!chars){
+				words=0;
+			}else{
+				words = val.replace(/\s+/gi, ' ').split(' ').length;
+			}
+			$("#count_").html(words);
+			// $("#count_,#count_res").html(words);
+			//$("#count__char").html(chars);
+		},500);
+	}
+	// file upload for getting file content
+	$('#fileUpload').change(function () {
+		var fileSelect = $('#fileUpload').prop('files')[0];
+		var form_data = new FormData();
+		f_name = fileSelect.name;
+		if (fileSelect.size > 5000001 || fileSelect.size == undefined) {
+			show_messages('error', 'Max File Size is 5mb');
+			$('#fileUpload').val('');
+			upload_section_show();
+			sst_loader('',false);
+			return false;
+		}
+		f_extension = f_name.substring(f_name.lastIndexOf('.') + 1);
+		validExtensions = ["txt", "doc", "docx", "odt", "pdf", "rtf", "tex"];
+		if ($.inArray(f_extension, validExtensions) != -1) {
+			form_data.append('file_upload', fileSelect);
+			File_upload(form_data,'textbox');
+		} else {
+			show_messages('error', 'Allowed file types .doc, .docx, .rtf, .odt, .pdf, .txt, tex');
+			$('#fileUpload').val('');
+			upload_section_show();
+			sst_loader('',false);
+			return false;
+		}
+	});
+	//check submission validation
+	function check_validation(){
+		var text_val=$.trim($('#textbox').val());
+		if(text_val == ''){
+			show_messages('Error', 'No content found.');
+			grecaptcha.reset();
+		}else{
+			var check_count=$('#count_').text();
+			if(check_count == 0){
+				show_messages('Error', 'No content found.');
+				grecaptcha.reset();
+			}else if(check_count < 15){
+				show_messages('Error', 'Add at least 15 words to proceed.');
+				grecaptcha.reset();
+			}else if(check_count > 2000){
+				$('#pp_alertmodal').modal('show');
+				$('#pp_alertmodal p').text('This is free version. It does not support more then 2000 words.');
+				// show_messages('Error', 'Words limit exceeded. 2000 words allowed per search.');
+				grecaptcha.reset();
+			}else{
+				captcha_submit();
+				sst_loader(Processing,true);
+			}
+		}
+	}
+	function _ondragenter(e){
+    e.preventDefault(); 
+		$('#textbox').css("background", "#cdcece");
+	}
+	function _ondragleave(e){
+		e.preventDefault();
+		$('#textbox').removeAttr("style");
+	}
+	function _ondragover(e){
+		e.preventDefault();
+		$('#textbox').css("background", "#cdcece");
+	}
+	function _ondrop(e){
+		e.preventDefault();
+		if (e.dataTransfer.items) {
+			if(e.dataTransfer.items.length>1){
+				show_messages('error', 'Drop Only one file');
+				$('#textbox').removeAttr("style");
+				return false;
+			}else{
+				for (var i = 0; i < 1; i++) {
+					if (e.dataTransfer.items[i].kind === 'file') {
+						var file = e.dataTransfer.items[i].getAsFile();
+						var ext =  file.name.split('.').pop();
+						var validImageTypes = ['.tex','.txt','.doc','.docx','.odt','.pdf','.rtf'];
+						if ($.inArray('.'+ext, validImageTypes) < 0) {
+							show_messages('error', 'Allowed file types .doc, .docx, .rtf, .odt, .pdf, .txt, tex');
+							$('#textbox').removeAttr("style");
+							return false;
+						}
+						if (parseInt(file.size) > 6*1024*1024) {
+							show_messages('error', 'Max file siz is 5mb');
+							$('#textbox').removeAttr("style");
+							return false;
+						}
+						showLoader(true);
+						var formData = new FormData();
+						formData.append('file_upload',file);
+						File_upload(formData,'textbox');
+					}
+				}
+			}
+		}
+	}
+	function File_upload(data_send,get_text_id){
+		$.ajax({
+			xhr: function() {
+				var xhr = new window.XMLHttpRequest();
+				xhr.upload.addEventListener("progress", function(evt) {
+					if (evt.lengthComputable) {
+						var percentage = evt.loaded / evt.total;
+						percentage = parseInt(percentage * 100);
+						var Loader_text=Uploading+percentage+'%';
+						if(percentage == 100){
+							var Loader_text=Processing;
+						}
+						sst_loader(Loader_text,true);
+					}
+				}, false);
+				return xhr;
+			},
+			url: 'https://smallseotools.com/get-file-content/',
+			type: 'post',
+			processData: false,
+			contentType: false,
+			dataType: 'json',
+			data: data_send,
+			success: function (response) {
+				sst_loader('',false);
+				if (response.type == 'success') {
+					upload_section_hide();
+					$('#textbox').removeAttr("style");
+					$("#textbox").val(response.msg);
+					count();
+				} else {
+					upload_section_show();
+					show_messages(response.type, response.msg);
+					$('#fileUpload').val('');
+					return false;
+				}
+			},
+			error:function(){
+				show_messages('error','File content not supported');
+				sst_loader('',false);
+			}
+		});
+	}
+	// for text cut option 
+	const source = document.querySelector('#textbox');
+	source.addEventListener('cut', (event) => {
+		count();
+	});
+	var base_url='https://smallseotools.com/';
+</script>
+<script type="text/javascript" src="https://apis.google.com/js/api.js?onload=loadPicker"></script>
+<script type="text/javascript" src="https://smallseotools.com/js/google-drive-for-files.js"></script>
+<script src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="w6uy8ta2ntg1a38"></script>
+<script type="text/javascript" src="https://smallseotools.com/js/dropbox-for-files.js?v=1"></script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'79f6481358c36444',m:'xhPtIxDVQptoSKPeR7sbxG3dogww8D8aOJkGcpheVEc-1677389351-0-AeJkj9AXX1CPcc0pg4nDN8STcPEyjoMmerbMTwAucVdGLdekWEETqK4KcxOwmuAz69gQBHlswVM7A8SrzybDeuzzJWvPChHfjjAekoTXMWLQ0FQKM5o5159/SNRXpWRf8+MSWgXAvhGR/1z7l2CX8u4=',s:[0x1a33389d8c,0x1d2d4fe6eb],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>
